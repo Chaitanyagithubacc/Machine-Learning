@@ -1,0 +1,1794 @@
+name,start_date,end_date,tours,time_control,white,black,date,result,id,series_no,Tournment_serial,concatenate
+tournament_1,2014-01-08,2014-01-17,9,rapid,贾叶珍,范辰妮,2014-01-08,0.5,tournament_1_1,1,1,1.1
+tournament_1,2014-01-08,2014-01-17,9,rapid,吕亚光,李嘉爵,2014-01-08,0.5,tournament_1_2,2,1,1.2
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘奇喜,刘晓鹏,2014-01-08,0.5,tournament_1_3,3,1,1.3
+tournament_1,2014-01-08,2014-01-17,9,rapid,陆桂姐,郑新聪,2014-01-08,1.0,tournament_1_4,4,1,1.4
+tournament_1,2014-01-08,2014-01-17,9,rapid,李汶玲,叶天英,2014-01-08,0.5,tournament_1_5,5,1,1.5
+tournament_1,2014-01-08,2014-01-17,9,rapid,薛冠,杨钰,2014-01-08,0.5,tournament_1_6,6,1,1.6
+tournament_1,2014-01-08,2014-01-17,9,rapid,冯燕家,曹灵缨,2014-01-08,0.0,tournament_1_7,7,1,1.7
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘家坚,齐慧智,2014-01-08,1.0,tournament_1_8,8,1,1.8
+tournament_1,2014-01-08,2014-01-17,9,rapid,张志琼,吴秋,2014-01-08,1.0,tournament_1_9,9,1,1.9
+tournament_1,2014-01-08,2014-01-17,9,rapid,徐先广,吴昱明,2014-01-08,1.0,tournament_1_10,10,1,1.10
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨佩义,王由航,2014-01-08,0.0,tournament_1_11,11,1,1.11
+tournament_1,2014-01-08,2014-01-17,9,rapid,王永赟,方东,2014-01-08,0.5,tournament_1_12,12,1,1.12
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘宇福,朱有荣,2014-01-08,1.0,tournament_1_13,13,1,1.13
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨莎强,余冬春,2014-01-08,0.5,tournament_1_14,14,1,1.14
+tournament_1,2014-01-08,2014-01-17,9,rapid,孟芳全,阎斯钧,2014-01-08,0.5,tournament_1_15,15,1,1.15
+tournament_1,2014-01-08,2014-01-17,9,rapid,钟弘存,张半植,2014-01-08,0.5,tournament_1_16,16,1,1.16
+tournament_1,2014-01-08,2014-01-17,9,rapid,范存妞,何建芝,2014-01-08,1.0,tournament_1_17,17,1,1.17
+tournament_1,2014-01-08,2014-01-17,9,rapid,李琳华,毛心磊,2014-01-08,0.0,tournament_1_18,18,1,1.18
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁小昆,董玉波,2014-01-08,0.5,tournament_1_19,19,1,1.19
+tournament_1,2014-01-08,2014-01-17,9,rapid,李文子,何驿艳,2014-01-08,1.0,tournament_1_20,20,1,1.20
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘先,梁扬,2014-01-08,1.0,tournament_1_21,21,1,1.21
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨燕波,袁宪萍,2014-01-08,0.5,tournament_1_22,22,1,1.22
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈思刚,刘星梅,2014-01-08,0.5,tournament_1_23,23,1,1.23
+tournament_1,2014-01-08,2014-01-17,9,rapid,张延营,张燕,2014-01-08,1.0,tournament_1_24,24,1,1.24
+tournament_1,2014-01-08,2014-01-17,9,rapid,张安甜,张木兴,2014-01-08,1.0,tournament_1_25,25,1,1.25
+tournament_1,2014-01-08,2014-01-17,9,rapid,李松江,王千迅,2014-01-08,1.0,tournament_1_26,26,1,1.26
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁良,殷小,2014-01-08,1.0,tournament_1_27,27,1,1.27
+tournament_1,2014-01-08,2014-01-17,9,rapid,董海非,魏兴,2014-01-08,0.5,tournament_1_28,28,1,1.28
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛均承,彭国,2014-01-08,0.5,tournament_1_29,29,1,1.29
+tournament_1,2014-01-08,2014-01-17,9,rapid,李守超,谢庆麟,2014-01-08,1.0,tournament_1_30,30,1,1.30
+tournament_1,2014-01-08,2014-01-17,9,rapid,王剑铭,陈音亮,2014-01-08,1.0,tournament_1_31,31,1,1.31
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨承,沈岚鸿,2014-01-08,0.0,tournament_1_32,32,1,1.32
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,李巧芸,2014-01-08,0.0,tournament_1_33,33,1,1.33
+tournament_1,2014-01-08,2014-01-17,9,rapid,曹灵缨,陆桂姐,2014-01-09,0.5,tournament_1_34,34,1,1.34
+tournament_1,2014-01-08,2014-01-17,9,rapid,王由航,刘家坚,2014-01-09,0.0,tournament_1_35,35,1,1.35
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛心磊,张志琼,2014-01-09,0.5,tournament_1_36,36,1,1.36
+tournament_1,2014-01-08,2014-01-17,9,rapid,沈岚鸿,徐先广,2014-01-09,1.0,tournament_1_37,37,1,1.37
+tournament_1,2014-01-08,2014-01-17,9,rapid,李巧芸,刘宇福,2014-01-09,0.5,tournament_1_38,38,1,1.38
+tournament_1,2014-01-08,2014-01-17,9,rapid,范辰妮,范存妞,2014-01-09,0.0,tournament_1_39,39,1,1.39
+tournament_1,2014-01-08,2014-01-17,9,rapid,李嘉爵,李文子,2014-01-09,0.0,tournament_1_40,40,1,1.40
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘晓鹏,刘先,2014-01-09,0.5,tournament_1_41,41,1,1.41
+tournament_1,2014-01-08,2014-01-17,9,rapid,叶天英,张延营,2014-01-09,0.0,tournament_1_42,42,1,1.42
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨钰,张安甜,2014-01-09,1.0,tournament_1_43,43,1,1.43
+tournament_1,2014-01-08,2014-01-17,9,rapid,方东,李松江,2014-01-09,1.0,tournament_1_44,44,1,1.44
+tournament_1,2014-01-08,2014-01-17,9,rapid,余冬春,梁良,2014-01-09,0.5,tournament_1_45,45,1,1.45
+tournament_1,2014-01-08,2014-01-17,9,rapid,阎斯钧,李守超,2014-01-09,0.0,tournament_1_46,46,1,1.46
+tournament_1,2014-01-08,2014-01-17,9,rapid,张半植,王剑铭,2014-01-09,1.0,tournament_1_47,47,1,1.47
+tournament_1,2014-01-08,2014-01-17,9,rapid,董玉波,贾叶珍,2014-01-09,1.0,tournament_1_48,48,1,1.48
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁宪萍,吕亚光,2014-01-09,0.5,tournament_1_49,49,1,1.49
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘星梅,刘奇喜,2014-01-09,1.0,tournament_1_50,50,1,1.50
+tournament_1,2014-01-08,2014-01-17,9,rapid,魏兴,李汶玲,2014-01-09,0.5,tournament_1_51,51,1,1.51
+tournament_1,2014-01-08,2014-01-17,9,rapid,彭国,薛冠,2014-01-09,1.0,tournament_1_52,52,1,1.52
+tournament_1,2014-01-08,2014-01-17,9,rapid,郑新聪,王永赟,2014-01-09,0.5,tournament_1_53,53,1,1.53
+tournament_1,2014-01-08,2014-01-17,9,rapid,齐慧智,杨莎强,2014-01-09,0.0,tournament_1_54,54,1,1.54
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴秋,孟芳全,2014-01-09,1.0,tournament_1_55,55,1,1.55
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴昱明,钟弘存,2014-01-09,0.5,tournament_1_56,56,1,1.56
+tournament_1,2014-01-08,2014-01-17,9,rapid,朱有荣,袁小昆,2014-01-09,0.5,tournament_1_57,57,1,1.57
+tournament_1,2014-01-08,2014-01-17,9,rapid,何建芝,杨燕波,2014-01-09,0.0,tournament_1_58,58,1,1.58
+tournament_1,2014-01-08,2014-01-17,9,rapid,何驿艳,陈思刚,2014-01-09,0.5,tournament_1_59,59,1,1.59
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁扬,董海非,2014-01-09,1.0,tournament_1_60,60,1,1.60
+tournament_1,2014-01-08,2014-01-17,9,rapid,张燕,毛均承,2014-01-09,0.0,tournament_1_61,61,1,1.61
+tournament_1,2014-01-08,2014-01-17,9,rapid,张木兴,冯燕家,2014-01-09,1.0,tournament_1_62,62,1,1.62
+tournament_1,2014-01-08,2014-01-17,9,rapid,王千迅,杨佩义,2014-01-09,0.0,tournament_1_63,63,1,1.63
+tournament_1,2014-01-08,2014-01-17,9,rapid,殷小,李琳华,2014-01-09,0.5,tournament_1_64,64,1,1.64
+tournament_1,2014-01-08,2014-01-17,9,rapid,谢庆麟,杨承,2014-01-09,1.0,tournament_1_65,65,1,1.65
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈音亮,张家懿,2014-01-09,1.0,tournament_1_66,66,1,1.66
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘家坚,沈岚鸿,2014-01-10,0.0,tournament_1_67,67,1,1.67
+tournament_1,2014-01-08,2014-01-17,9,rapid,范存妞,曹灵缨,2014-01-10,0.5,tournament_1_68,68,1,1.68
+tournament_1,2014-01-08,2014-01-17,9,rapid,李文子,毛心磊,2014-01-10,1.0,tournament_1_69,69,1,1.69
+tournament_1,2014-01-08,2014-01-17,9,rapid,张延营,李巧芸,2014-01-10,1.0,tournament_1_70,70,1,1.70
+tournament_1,2014-01-08,2014-01-17,9,rapid,李守超,杨钰,2014-01-10,0.5,tournament_1_71,71,1,1.71
+tournament_1,2014-01-08,2014-01-17,9,rapid,陆桂姐,方东,2014-01-10,1.0,tournament_1_72,72,1,1.72
+tournament_1,2014-01-08,2014-01-17,9,rapid,张志琼,张半植,2014-01-10,1.0,tournament_1_73,73,1,1.73
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘宇福,董玉波,2014-01-10,1.0,tournament_1_74,74,1,1.74
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘先,刘星梅,2014-01-10,0.0,tournament_1_75,75,1,1.75
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁良,彭国,2014-01-10,1.0,tournament_1_76,76,1,1.76
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨莎强,王由航,2014-01-10,0.5,tournament_1_77,77,1,1.77
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨燕波,刘晓鹏,2014-01-10,0.0,tournament_1_78,78,1,1.78
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛均承,余冬春,2014-01-10,1.0,tournament_1_79,79,1,1.79
+tournament_1,2014-01-08,2014-01-17,9,rapid,徐先广,袁宪萍,2014-01-10,1.0,tournament_1_80,80,1,1.80
+tournament_1,2014-01-08,2014-01-17,9,rapid,张安甜,魏兴,2014-01-10,1.0,tournament_1_81,81,1,1.81
+tournament_1,2014-01-08,2014-01-17,9,rapid,李松江,吴秋,2014-01-10,0.0,tournament_1_82,82,1,1.82
+tournament_1,2014-01-08,2014-01-17,9,rapid,王剑铭,梁扬,2014-01-10,1.0,tournament_1_83,83,1,1.83
+tournament_1,2014-01-08,2014-01-17,9,rapid,吕亚光,张木兴,2014-01-10,1.0,tournament_1_84,84,1,1.84
+tournament_1,2014-01-08,2014-01-17,9,rapid,李汶玲,谢庆麟,2014-01-10,0.0,tournament_1_85,85,1,1.85
+tournament_1,2014-01-08,2014-01-17,9,rapid,王永赟,陈音亮,2014-01-10,0.5,tournament_1_86,86,1,1.86
+tournament_1,2014-01-08,2014-01-17,9,rapid,钟弘存,范辰妮,2014-01-10,1.0,tournament_1_87,87,1,1.87
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁小昆,李嘉爵,2014-01-10,0.5,tournament_1_88,88,1,1.88
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈思刚,叶天英,2014-01-10,1.0,tournament_1_89,89,1,1.89
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨佩义,阎斯钧,2014-01-10,0.5,tournament_1_90,90,1,1.90
+tournament_1,2014-01-08,2014-01-17,9,rapid,贾叶珍,郑新聪,2014-01-10,1.0,tournament_1_91,91,1,1.91
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘奇喜,吴昱明,2014-01-10,0.5,tournament_1_92,92,1,1.92
+tournament_1,2014-01-08,2014-01-17,9,rapid,薛冠,朱有荣,2014-01-10,0.0,tournament_1_93,93,1,1.93
+tournament_1,2014-01-08,2014-01-17,9,rapid,孟芳全,何驿艳,2014-01-10,1.0,tournament_1_94,94,1,1.94
+tournament_1,2014-01-08,2014-01-17,9,rapid,董海非,殷小,2014-01-10,1.0,tournament_1_95,95,1,1.95
+tournament_1,2014-01-08,2014-01-17,9,rapid,李琳华,齐慧智,2014-01-10,1.0,tournament_1_96,96,1,1.96
+tournament_1,2014-01-08,2014-01-17,9,rapid,冯燕家,何建芝,2014-01-10,0.0,tournament_1_97,97,1,1.97
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨承,张燕,2014-01-10,0.0,tournament_1_98,98,1,1.98
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,王千迅,2014-01-10,0.0,tournament_1_99,99,1,1.99
+tournament_1,2014-01-08,2014-01-17,9,rapid,沈岚鸿,李文子,2014-01-11,1.0,tournament_1_100,100,1,1.100
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘星梅,张延营,2014-01-11,1.0,tournament_1_101,101,1,1.101
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨钰,范存妞,2014-01-11,0.0,tournament_1_102,102,1,1.102
+tournament_1,2014-01-08,2014-01-17,9,rapid,曹灵缨,李守超,2014-01-11,1.0,tournament_1_103,103,1,1.103
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘晓鹏,陆桂姐,2014-01-11,1.0,tournament_1_104,104,1,1.104
+tournament_1,2014-01-08,2014-01-17,9,rapid,谢庆麟,张志琼,2014-01-11,0.5,tournament_1_105,105,1,1.105
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴秋,刘宇福,2014-01-11,1.0,tournament_1_106,106,1,1.106
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛心磊,梁良,2014-01-11,0.5,tournament_1_107,107,1,1.107
+tournament_1,2014-01-08,2014-01-17,9,rapid,李巧芸,毛均承,2014-01-11,0.0,tournament_1_108,108,1,1.108
+tournament_1,2014-01-08,2014-01-17,9,rapid,方东,刘家坚,2014-01-11,1.0,tournament_1_109,109,1,1.109
+tournament_1,2014-01-08,2014-01-17,9,rapid,张半植,杨莎强,2014-01-11,0.5,tournament_1_110,110,1,1.110
+tournament_1,2014-01-08,2014-01-17,9,rapid,董玉波,徐先广,2014-01-11,0.0,tournament_1_111,111,1,1.111
+tournament_1,2014-01-08,2014-01-17,9,rapid,彭国,张安甜,2014-01-11,1.0,tournament_1_112,112,1,1.112
+tournament_1,2014-01-08,2014-01-17,9,rapid,王由航,王剑铭,2014-01-11,0.5,tournament_1_113,113,1,1.113
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈音亮,吕亚光,2014-01-11,0.0,tournament_1_114,114,1,1.114
+tournament_1,2014-01-08,2014-01-17,9,rapid,朱有荣,钟弘存,2014-01-11,0.5,tournament_1_115,115,1,1.115
+tournament_1,2014-01-08,2014-01-17,9,rapid,余冬春,陈思刚,2014-01-11,1.0,tournament_1_116,116,1,1.116
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁宪萍,刘先,2014-01-11,0.5,tournament_1_117,117,1,1.117
+tournament_1,2014-01-08,2014-01-17,9,rapid,魏兴,杨燕波,2014-01-11,0.0,tournament_1_118,118,1,1.118
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁扬,王永赟,2014-01-11,0.5,tournament_1_119,119,1,1.119
+tournament_1,2014-01-08,2014-01-17,9,rapid,张木兴,袁小昆,2014-01-11,1.0,tournament_1_120,120,1,1.120
+tournament_1,2014-01-08,2014-01-17,9,rapid,李嘉爵,杨佩义,2014-01-11,0.5,tournament_1_121,121,1,1.121
+tournament_1,2014-01-08,2014-01-17,9,rapid,阎斯钧,贾叶珍,2014-01-11,0.5,tournament_1_122,122,1,1.122
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴昱明,孟芳全,2014-01-11,1.0,tournament_1_123,123,1,1.123
+tournament_1,2014-01-08,2014-01-17,9,rapid,何建芝,董海非,2014-01-11,0.5,tournament_1_124,124,1,1.124
+tournament_1,2014-01-08,2014-01-17,9,rapid,张燕,李琳华,2014-01-11,0.5,tournament_1_125,125,1,1.125
+tournament_1,2014-01-08,2014-01-17,9,rapid,范辰妮,李松江,2014-01-11,0.5,tournament_1_126,126,1,1.126
+tournament_1,2014-01-08,2014-01-17,9,rapid,王千迅,李汶玲,2014-01-11,1.0,tournament_1_127,127,1,1.127
+tournament_1,2014-01-08,2014-01-17,9,rapid,叶天英,刘奇喜,2014-01-11,1.0,tournament_1_128,128,1,1.128
+tournament_1,2014-01-08,2014-01-17,9,rapid,郑新聪,薛冠,2014-01-11,0.0,tournament_1_129,129,1,1.129
+tournament_1,2014-01-08,2014-01-17,9,rapid,何驿艳,冯燕家,2014-01-11,1.0,tournament_1_130,130,1,1.130
+tournament_1,2014-01-08,2014-01-17,9,rapid,殷小,张家懿,2014-01-11,0.5,tournament_1_131,131,1,1.131
+tournament_1,2014-01-08,2014-01-17,9,rapid,齐慧智,杨承,2014-01-11,1.0,tournament_1_132,132,1,1.132
+tournament_1,2014-01-08,2014-01-17,9,rapid,范存妞,沈岚鸿,2014-01-12,0.5,tournament_1_133,133,1,1.133
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛均承,刘星梅,2014-01-12,0.5,tournament_1_134,134,1,1.134
+tournament_1,2014-01-08,2014-01-17,9,rapid,李文子,曹灵缨,2014-01-12,0.0,tournament_1_135,135,1,1.135
+tournament_1,2014-01-08,2014-01-17,9,rapid,张延营,刘晓鹏,2014-01-12,0.0,tournament_1_136,136,1,1.136
+tournament_1,2014-01-08,2014-01-17,9,rapid,张志琼,方东,2014-01-12,0.5,tournament_1_137,137,1,1.137
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁良,吴秋,2014-01-12,1.0,tournament_1_138,138,1,1.138
+tournament_1,2014-01-08,2014-01-17,9,rapid,徐先广,谢庆麟,2014-01-12,1.0,tournament_1_139,139,1,1.139
+tournament_1,2014-01-08,2014-01-17,9,rapid,吕亚光,彭国,2014-01-12,0.5,tournament_1_140,140,1,1.140
+tournament_1,2014-01-08,2014-01-17,9,rapid,李守超,毛心磊,2014-01-12,1.0,tournament_1_141,141,1,1.141
+tournament_1,2014-01-08,2014-01-17,9,rapid,陆桂姐,杨钰,2014-01-12,1.0,tournament_1_142,142,1,1.142
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘宇福,张半植,2014-01-12,0.0,tournament_1_143,143,1,1.143
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨莎强,朱有荣,2014-01-12,1.0,tournament_1_144,144,1,1.144
+tournament_1,2014-01-08,2014-01-17,9,rapid,王剑铭,余冬春,2014-01-12,0.5,tournament_1_145,145,1,1.145
+tournament_1,2014-01-08,2014-01-17,9,rapid,钟弘存,王由航,2014-01-12,0.5,tournament_1_146,146,1,1.146
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨燕波,张木兴,2014-01-12,1.0,tournament_1_147,147,1,1.147
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘家坚,吴昱明,2014-01-12,0.0,tournament_1_148,148,1,1.148
+tournament_1,2014-01-08,2014-01-17,9,rapid,张安甜,王千迅,2014-01-12,0.5,tournament_1_149,149,1,1.149
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈思刚,李巧芸,2014-01-12,0.5,tournament_1_150,150,1,1.150
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘先,董玉波,2014-01-12,1.0,tournament_1_151,151,1,1.151
+tournament_1,2014-01-08,2014-01-17,9,rapid,王永赟,袁宪萍,2014-01-12,0.5,tournament_1_152,152,1,1.152
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨佩义,陈音亮,2014-01-12,1.0,tournament_1_153,153,1,1.153
+tournament_1,2014-01-08,2014-01-17,9,rapid,贾叶珍,梁扬,2014-01-12,0.5,tournament_1_154,154,1,1.154
+tournament_1,2014-01-08,2014-01-17,9,rapid,董海非,李嘉爵,2014-01-12,0.0,tournament_1_155,155,1,1.155
+tournament_1,2014-01-08,2014-01-17,9,rapid,李琳华,阎斯钧,2014-01-12,0.5,tournament_1_156,156,1,1.156
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁小昆,何建芝,2014-01-12,0.0,tournament_1_157,157,1,1.157
+tournament_1,2014-01-08,2014-01-17,9,rapid,孟芳全,张燕,2014-01-12,0.5,tournament_1_158,158,1,1.158
+tournament_1,2014-01-08,2014-01-17,9,rapid,李松江,叶天英,2014-01-12,0.5,tournament_1_159,159,1,1.159
+tournament_1,2014-01-08,2014-01-17,9,rapid,薛冠,何驿艳,2014-01-12,0.0,tournament_1_160,160,1,1.160
+tournament_1,2014-01-08,2014-01-17,9,rapid,李汶玲,范辰妮,2014-01-12,1.0,tournament_1_161,161,1,1.161
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘奇喜,魏兴,2014-01-12,0.5,tournament_1_162,162,1,1.162
+tournament_1,2014-01-08,2014-01-17,9,rapid,冯燕家,殷小,2014-01-12,1.0,tournament_1_163,163,1,1.163
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,齐慧智,2014-01-12,0.5,tournament_1_164,164,1,1.164
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨承,郑新聪,2014-01-12,0.5,tournament_1_165,165,1,1.165
+tournament_1,2014-01-08,2014-01-17,9,rapid,沈岚鸿,毛均承,2014-01-13,0.5,tournament_1_166,166,1,1.166
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘星梅,范存妞,2014-01-13,0.5,tournament_1_167,167,1,1.167
+tournament_1,2014-01-08,2014-01-17,9,rapid,曹灵缨,梁良,2014-01-13,0.5,tournament_1_168,168,1,1.168
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘晓鹏,徐先广,2014-01-13,0.5,tournament_1_169,169,1,1.169
+tournament_1,2014-01-08,2014-01-17,9,rapid,彭国,张志琼,2014-01-13,0.5,tournament_1_170,170,1,1.170
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴秋,吕亚光,2014-01-13,0.0,tournament_1_171,171,1,1.171
+tournament_1,2014-01-08,2014-01-17,9,rapid,方东,李守超,2014-01-13,0.0,tournament_1_172,172,1,1.172
+tournament_1,2014-01-08,2014-01-17,9,rapid,张半植,陆桂姐,2014-01-13,0.5,tournament_1_173,173,1,1.173
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴昱明,杨莎强,2014-01-13,0.5,tournament_1_174,174,1,1.174
+tournament_1,2014-01-08,2014-01-17,9,rapid,谢庆麟,杨燕波,2014-01-13,1.0,tournament_1_175,175,1,1.175
+tournament_1,2014-01-08,2014-01-17,9,rapid,王由航,李文子,2014-01-13,0.0,tournament_1_176,176,1,1.176
+tournament_1,2014-01-08,2014-01-17,9,rapid,余冬春,张延营,2014-01-13,1.0,tournament_1_177,177,1,1.177
+tournament_1,2014-01-08,2014-01-17,9,rapid,王千迅,王剑铭,2014-01-13,0.5,tournament_1_178,178,1,1.178
+tournament_1,2014-01-08,2014-01-17,9,rapid,李嘉爵,钟弘存,2014-01-13,1.0,tournament_1_179,179,1,1.179
+tournament_1,2014-01-08,2014-01-17,9,rapid,何建芝,刘先,2014-01-13,0.0,tournament_1_180,180,1,1.180
+tournament_1,2014-01-08,2014-01-17,9,rapid,何驿艳,杨佩义,2014-01-13,0.5,tournament_1_181,181,1,1.181
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨钰,刘宇福,2014-01-13,0.5,tournament_1_182,182,1,1.182
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛心磊,张安甜,2014-01-13,0.5,tournament_1_183,183,1,1.183
+tournament_1,2014-01-08,2014-01-17,9,rapid,朱有荣,陈思刚,2014-01-13,1.0,tournament_1_184,184,1,1.184
+tournament_1,2014-01-08,2014-01-17,9,rapid,张木兴,王永赟,2014-01-13,0.5,tournament_1_185,185,1,1.185
+tournament_1,2014-01-08,2014-01-17,9,rapid,李巧芸,贾叶珍,2014-01-13,0.0,tournament_1_186,186,1,1.186
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁宪萍,李琳华,2014-01-13,0.5,tournament_1_187,187,1,1.187
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁扬,刘家坚,2014-01-13,0.0,tournament_1_188,188,1,1.188
+tournament_1,2014-01-08,2014-01-17,9,rapid,阎斯钧,董海非,2014-01-13,0.5,tournament_1_189,189,1,1.189
+tournament_1,2014-01-08,2014-01-17,9,rapid,叶天英,孟芳全,2014-01-13,1.0,tournament_1_190,190,1,1.190
+tournament_1,2014-01-08,2014-01-17,9,rapid,张燕,李松江,2014-01-13,1.0,tournament_1_191,191,1,1.191
+tournament_1,2014-01-08,2014-01-17,9,rapid,董玉波,李汶玲,2014-01-13,0.5,tournament_1_192,192,1,1.192
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈音亮,袁小昆,2014-01-13,0.5,tournament_1_193,193,1,1.193
+tournament_1,2014-01-08,2014-01-17,9,rapid,魏兴,薛冠,2014-01-13,0.5,tournament_1_194,194,1,1.194
+tournament_1,2014-01-08,2014-01-17,9,rapid,齐慧智,刘奇喜,2014-01-13,0.5,tournament_1_195,195,1,1.195
+tournament_1,2014-01-08,2014-01-17,9,rapid,范辰妮,张家懿,2014-01-13,0.5,tournament_1_196,196,1,1.196
+tournament_1,2014-01-08,2014-01-17,9,rapid,殷小,杨承,2014-01-13,0.5,tournament_1_197,197,1,1.197
+tournament_1,2014-01-08,2014-01-17,9,rapid,郑新聪,冯燕家,2014-01-13,0.5,tournament_1_198,198,1,1.198
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁良,沈岚鸿,2014-01-14,0.5,tournament_1_199,199,1,1.199
+tournament_1,2014-01-08,2014-01-17,9,rapid,范存妞,刘晓鹏,2014-01-14,0.5,tournament_1_200,200,1,1.200
+tournament_1,2014-01-08,2014-01-17,9,rapid,徐先广,刘星梅,2014-01-14,0.5,tournament_1_201,201,1,1.201
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛均承,曹灵缨,2014-01-14,1.0,tournament_1_202,202,1,1.202
+tournament_1,2014-01-08,2014-01-17,9,rapid,吕亚光,张半植,2014-01-14,0.0,tournament_1_203,203,1,1.203
+tournament_1,2014-01-08,2014-01-17,9,rapid,李守超,彭国,2014-01-14,0.5,tournament_1_204,204,1,1.204
+tournament_1,2014-01-08,2014-01-17,9,rapid,张志琼,吴昱明,2014-01-14,1.0,tournament_1_205,205,1,1.205
+tournament_1,2014-01-08,2014-01-17,9,rapid,陆桂姐,谢庆麟,2014-01-14,0.5,tournament_1_206,206,1,1.206
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨莎强,李嘉爵,2014-01-14,1.0,tournament_1_207,207,1,1.207
+tournament_1,2014-01-08,2014-01-17,9,rapid,李文子,余冬春,2014-01-14,0.5,tournament_1_208,208,1,1.208
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘先,吴秋,2014-01-14,1.0,tournament_1_209,209,1,1.209
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨燕波,方东,2014-01-14,1.0,tournament_1_210,210,1,1.210
+tournament_1,2014-01-08,2014-01-17,9,rapid,王剑铭,何驿艳,2014-01-14,1.0,tournament_1_211,211,1,1.211
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨佩义,朱有荣,2014-01-14,0.0,tournament_1_212,212,1,1.212
+tournament_1,2014-01-08,2014-01-17,9,rapid,贾叶珍,王千迅,2014-01-14,1.0,tournament_1_213,213,1,1.213
+tournament_1,2014-01-08,2014-01-17,9,rapid,张延营,王由航,2014-01-14,0.5,tournament_1_214,214,1,1.214
+tournament_1,2014-01-08,2014-01-17,9,rapid,钟弘存,张燕,2014-01-14,0.5,tournament_1_215,215,1,1.215
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘宇福,叶天英,2014-01-14,0.5,tournament_1_216,216,1,1.216
+tournament_1,2014-01-08,2014-01-17,9,rapid,张安甜,何建芝,2014-01-14,1.0,tournament_1_217,217,1,1.217
+tournament_1,2014-01-08,2014-01-17,9,rapid,王永赟,杨钰,2014-01-14,1.0,tournament_1_218,218,1,1.218
+tournament_1,2014-01-08,2014-01-17,9,rapid,李琳华,张木兴,2014-01-14,0.5,tournament_1_219,219,1,1.219
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘家坚,毛心磊,2014-01-14,1.0,tournament_1_220,220,1,1.220
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈思刚,袁宪萍,2014-01-14,1.0,tournament_1_221,221,1,1.221
+tournament_1,2014-01-08,2014-01-17,9,rapid,董海非,李巧芸,2014-01-14,0.5,tournament_1_222,222,1,1.222
+tournament_1,2014-01-08,2014-01-17,9,rapid,李汶玲,阎斯钧,2014-01-14,0.0,tournament_1_223,223,1,1.223
+tournament_1,2014-01-08,2014-01-17,9,rapid,孟芳全,梁扬,2014-01-14,0.5,tournament_1_224,224,1,1.224
+tournament_1,2014-01-08,2014-01-17,9,rapid,李松江,董玉波,2014-01-14,0.5,tournament_1_225,225,1,1.225
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁小昆,魏兴,2014-01-14,0.5,tournament_1_226,226,1,1.226
+tournament_1,2014-01-08,2014-01-17,9,rapid,薛冠,陈音亮,2014-01-14,1.0,tournament_1_227,227,1,1.227
+tournament_1,2014-01-08,2014-01-17,9,rapid,冯燕家,齐慧智,2014-01-14,0.0,tournament_1_228,228,1,1.228
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,郑新聪,2014-01-14,1.0,tournament_1_229,229,1,1.229
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨承,范辰妮,2014-01-14,0.5,tournament_1_230,230,1,1.230
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘奇喜,殷小,2014-01-14,1.0,tournament_1_231,231,1,1.231
+tournament_1,2014-01-08,2014-01-17,9,rapid,沈岚鸿,李守超,2014-01-15,0.5,tournament_1_232,232,1,1.232
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘晓鹏,毛均承,2014-01-15,0.5,tournament_1_233,233,1,1.233
+tournament_1,2014-01-08,2014-01-17,9,rapid,张半植,范存妞,2014-01-15,1.0,tournament_1_234,234,1,1.234
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘星梅,梁良,2014-01-15,0.5,tournament_1_235,235,1,1.235
+tournament_1,2014-01-08,2014-01-17,9,rapid,曹灵缨,徐先广,2014-01-15,0.5,tournament_1_236,236,1,1.236
+tournament_1,2014-01-08,2014-01-17,9,rapid,余冬春,张志琼,2014-01-15,0.5,tournament_1_237,237,1,1.237
+tournament_1,2014-01-08,2014-01-17,9,rapid,彭国,杨莎强,2014-01-15,0.5,tournament_1_238,238,1,1.238
+tournament_1,2014-01-08,2014-01-17,9,rapid,谢庆麟,刘先,2014-01-15,0.5,tournament_1_239,239,1,1.239
+tournament_1,2014-01-08,2014-01-17,9,rapid,朱有荣,吕亚光,2014-01-15,0.0,tournament_1_240,240,1,1.240
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴昱明,陆桂姐,2014-01-15,0.5,tournament_1_241,241,1,1.241
+tournament_1,2014-01-08,2014-01-17,9,rapid,张燕,李文子,2014-01-15,0.5,tournament_1_242,242,1,1.242
+tournament_1,2014-01-08,2014-01-17,9,rapid,李嘉爵,杨燕波,2014-01-15,0.0,tournament_1_243,243,1,1.243
+tournament_1,2014-01-08,2014-01-17,9,rapid,叶天英,王剑铭,2014-01-15,0.0,tournament_1_244,244,1,1.244
+tournament_1,2014-01-08,2014-01-17,9,rapid,吴秋,贾叶珍,2014-01-15,0.5,tournament_1_245,245,1,1.245
+tournament_1,2014-01-08,2014-01-17,9,rapid,阎斯钧,张安甜,2014-01-15,0.5,tournament_1_246,246,1,1.246
+tournament_1,2014-01-08,2014-01-17,9,rapid,王千迅,王永赟,2014-01-15,0.5,tournament_1_247,247,1,1.247
+tournament_1,2014-01-08,2014-01-17,9,rapid,何驿艳,刘家坚,2014-01-15,0.0,tournament_1_248,248,1,1.248
+tournament_1,2014-01-08,2014-01-17,9,rapid,方东,杨佩义,2014-01-15,0.5,tournament_1_249,249,1,1.249
+tournament_1,2014-01-08,2014-01-17,9,rapid,张木兴,张延营,2014-01-15,0.5,tournament_1_250,250,1,1.250
+tournament_1,2014-01-08,2014-01-17,9,rapid,齐慧智,钟弘存,2014-01-15,1.0,tournament_1_251,251,1,1.251
+tournament_1,2014-01-08,2014-01-17,9,rapid,王由航,刘宇福,2014-01-15,0.5,tournament_1_252,252,1,1.252
+tournament_1,2014-01-08,2014-01-17,9,rapid,何建芝,李琳华,2014-01-15,1.0,tournament_1_253,253,1,1.253
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨钰,陈思刚,2014-01-15,0.5,tournament_1_254,254,1,1.254
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛心磊,董海非,2014-01-15,1.0,tournament_1_255,255,1,1.255
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁宪萍,薛冠,2014-01-15,1.0,tournament_1_256,256,1,1.256
+tournament_1,2014-01-08,2014-01-17,9,rapid,李巧芸,刘奇喜,2014-01-15,0.5,tournament_1_257,257,1,1.257
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁扬,李汶玲,2014-01-15,1.0,tournament_1_258,258,1,1.258
+tournament_1,2014-01-08,2014-01-17,9,rapid,董玉波,孟芳全,2014-01-15,0.5,tournament_1_259,259,1,1.259
+tournament_1,2014-01-08,2014-01-17,9,rapid,殷小,袁小昆,2014-01-15,0.5,tournament_1_260,260,1,1.260
+tournament_1,2014-01-08,2014-01-17,9,rapid,魏兴,冯燕家,2014-01-15,1.0,tournament_1_261,261,1,1.261
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,杨承,2014-01-15,0.5,tournament_1_262,262,1,1.262
+tournament_1,2014-01-08,2014-01-17,9,rapid,郑新聪,范辰妮,2014-01-15,0.5,tournament_1_263,263,1,1.263
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈音亮,李松江,2014-01-15,0.5,tournament_1_264,264,1,1.264
+tournament_1,2014-01-08,2014-01-17,9,rapid,张志琼,沈岚鸿,2014-01-16,0.5,tournament_1_265,265,1,1.265
+tournament_1,2014-01-08,2014-01-17,9,rapid,毛均承,张半植,2014-01-16,0.5,tournament_1_266,266,1,1.266
+tournament_1,2014-01-08,2014-01-17,9,rapid,李守超,刘星梅,2014-01-16,1.0,tournament_1_267,267,1,1.267
+tournament_1,2014-01-08,2014-01-17,9,rapid,梁良,刘晓鹏,2014-01-16,1.0,tournament_1_268,268,1,1.268
+tournament_1,2014-01-08,2014-01-17,9,rapid,徐先广,彭国,2014-01-16,1.0,tournament_1_269,269,1,1.269
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨莎强,曹灵缨,2014-01-16,1.0,tournament_1_270,270,1,1.270
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘先,余冬春,2014-01-16,0.5,tournament_1_271,271,1,1.271
+tournament_1,2014-01-08,2014-01-17,9,rapid,吕亚光,谢庆麟,2014-01-16,0.5,tournament_1_272,272,1,1.272
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨燕波,朱有荣,2014-01-16,1.0,tournament_1_273,273,1,1.273
+tournament_1,2014-01-08,2014-01-17,9,rapid,王剑铭,吴昱明,2014-01-16,0.5,tournament_1_274,274,1,1.274
+tournament_1,2014-01-08,2014-01-17,9,rapid,范存妞,张燕,2014-01-16,1.0,tournament_1_275,275,1,1.275
+tournament_1,2014-01-08,2014-01-17,9,rapid,陆桂姐,阎斯钧,2014-01-16,0.5,tournament_1_276,276,1,1.276
+tournament_1,2014-01-08,2014-01-17,9,rapid,李文子,齐慧智,2014-01-16,1.0,tournament_1_277,277,1,1.277
+tournament_1,2014-01-08,2014-01-17,9,rapid,贾叶珍,李嘉爵,2014-01-16,0.5,tournament_1_278,278,1,1.278
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘家坚,叶天英,2014-01-16,0.5,tournament_1_279,279,1,1.279
+tournament_1,2014-01-08,2014-01-17,9,rapid,张安甜,吴秋,2014-01-16,0.5,tournament_1_280,280,1,1.280
+tournament_1,2014-01-08,2014-01-17,9,rapid,王永赟,王由航,2014-01-16,1.0,tournament_1_281,281,1,1.281
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨佩义,张木兴,2014-01-16,0.5,tournament_1_282,282,1,1.282
+tournament_1,2014-01-08,2014-01-17,9,rapid,张延营,方东,2014-01-16,0.5,tournament_1_283,283,1,1.283
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘宇福,王千迅,2014-01-16,1.0,tournament_1_284,284,1,1.284
+tournament_1,2014-01-08,2014-01-17,9,rapid,陈思刚,何建芝,2014-01-16,1.0,tournament_1_285,285,1,1.285
+tournament_1,2014-01-08,2014-01-17,9,rapid,钟弘存,毛心磊,2014-01-16,0.5,tournament_1_286,286,1,1.286
+tournament_1,2014-01-08,2014-01-17,9,rapid,李琳华,梁扬,2014-01-16,0.5,tournament_1_287,287,1,1.287
+tournament_1,2014-01-08,2014-01-17,9,rapid,刘奇喜,袁宪萍,2014-01-16,0.0,tournament_1_288,288,1,1.288
+tournament_1,2014-01-08,2014-01-17,9,rapid,孟芳全,魏兴,2014-01-16,1.0,tournament_1_289,289,1,1.289
+tournament_1,2014-01-08,2014-01-17,9,rapid,董海非,何驿艳,2014-01-16,1.0,tournament_1_290,290,1,1.290
+tournament_1,2014-01-08,2014-01-17,9,rapid,薛冠,李巧芸,2014-01-16,0.5,tournament_1_291,291,1,1.291
+tournament_1,2014-01-08,2014-01-17,9,rapid,李松江,杨钰,2014-01-16,0.5,tournament_1_292,292,1,1.292
+tournament_1,2014-01-08,2014-01-17,9,rapid,张家懿,董玉波,2014-01-16,0.5,tournament_1_293,293,1,1.293
+tournament_1,2014-01-08,2014-01-17,9,rapid,袁小昆,郑新聪,2014-01-16,0.0,tournament_1_294,294,1,1.294
+tournament_1,2014-01-08,2014-01-17,9,rapid,冯燕家,范辰妮,2014-01-16,0.5,tournament_1_295,295,1,1.295
+tournament_1,2014-01-08,2014-01-17,9,rapid,杨承,陈音亮,2014-01-16,1.0,tournament_1_296,296,1,1.296
+tournament_1,2014-01-08,2014-01-17,9,rapid,李汶玲,殷小,2014-01-16,0.0,tournament_1_297,297,1,1.297
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Tian, Xiong",2014-01-15,0.5,tournament_10_1,1,10,10.1
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Pang, Ronggang",2014-01-15,1.0,tournament_10_2,2,10,10.2
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Wang, Jianyao",2014-01-15,0.0,tournament_10_3,3,10,10.3
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Wu, Haifang",2014-01-15,1.0,tournament_10_4,4,10,10.4
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Wang, Jin",2014-01-15,0.0,tournament_10_5,5,10,10.5
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Huang, Feirui",2014-01-15,0.5,tournament_10_6,6,10,10.6
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Zhou, Xialan",2014-01-15,0.0,tournament_10_7,7,10,10.7
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Wang, Dian",2014-01-15,0.5,tournament_10_8,8,10,10.8
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Xing, Qiping",2014-01-15,0.5,tournament_10_9,9,10,10.9
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Zhang, Qiyan",2014-01-15,1.0,tournament_10_10,10,10,10.10
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Zhao, Wenmei",2014-01-15,0.0,tournament_10_11,11,10,10.11
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Song, Zeji",2014-01-15,0.0,tournament_10_12,12,10,10.12
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Lu, Xingmiao",2014-01-15,1.0,tournament_10_13,13,10,10.13
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Liang, Shujun",2014-01-15,0.0,tournament_10_14,14,10,10.14
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Wang, Cai",2014-01-15,0.0,tournament_10_15,15,10,10.15
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Chen, Yuyu",2014-01-15,0.0,tournament_10_16,16,10,10.16
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Zhao, Baoyu",2014-01-15,1.0,tournament_10_17,17,10,10.17
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Zhu, Qingzhen",2014-01-15,0.5,tournament_10_18,18,10,10.18
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Lu, Yingfu",2014-01-15,1.0,tournament_10_19,19,10,10.19
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Li, Hai",2014-01-15,0.5,tournament_10_20,20,10,10.20
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Xuanyan","Cao, Yiping",2014-01-15,0.5,tournament_10_21,21,10,10.21
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Xu, Chenliang",2014-01-15,0.5,tournament_10_22,22,10,10.22
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Gao, Xiaochen",2014-01-15,0.5,tournament_10_23,23,10,10.23
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Guobiao","Chen, Yuke",2014-01-15,0.0,tournament_10_24,24,10,10.24
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Lv, Yiguo",2014-01-15,0.5,tournament_10_25,25,10,10.25
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Wei, Ming",2014-01-17,1.0,tournament_10_26,26,10,10.26
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Xu, Xiaozhi",2014-01-17,0.5,tournament_10_27,27,10,10.27
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Li, Minkang",2014-01-17,0.0,tournament_10_28,28,10,10.28
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Huang, Mengli",2014-01-17,0.0,tournament_10_29,29,10,10.29
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Liu, Kaiqing",2014-01-17,0.5,tournament_10_30,30,10,10.30
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Jiang, Degang",2014-01-17,0.5,tournament_10_31,31,10,10.31
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Liang, Qing",2014-01-17,1.0,tournament_10_32,32,10,10.32
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Zhang, Zhengnan",2014-01-17,1.0,tournament_10_33,33,10,10.33
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Liang, Jiyue",2014-01-17,0.5,tournament_10_34,34,10,10.34
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Li, Zhengji",2014-01-17,0.5,tournament_10_35,35,10,10.35
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Liu, Aigui",2014-01-17,0.5,tournament_10_36,36,10,10.36
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Shen, Jianqin",2014-01-17,0.5,tournament_10_37,37,10,10.37
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Wang, Xuanyan",2014-01-17,1.0,tournament_10_38,38,10,10.38
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Yuan, Yue",2014-01-17,0.5,tournament_10_39,39,10,10.39
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Xu, Fuying",2014-01-17,0.5,tournament_10_40,40,10,10.40
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cao, Yiping","Hu, Jingxin",2014-01-17,0.0,tournament_10_41,41,10,10.41
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Guo, Hongmin",2014-01-17,1.0,tournament_10_42,42,10,10.42
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Zhang, Yajuan",2014-01-17,1.0,tournament_10_43,43,10,10.43
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Zhang, Muli",2014-01-17,1.0,tournament_10_44,44,10,10.44
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Jiang, Yi",2014-01-17,0.5,tournament_10_45,45,10,10.45
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Cai, Qi",2014-01-17,0.5,tournament_10_46,46,10,10.46
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Lin, Yuanhao",2014-01-17,0.5,tournament_10_47,47,10,10.47
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Wen, Yongxi",2014-01-17,0.0,tournament_10_48,48,10,10.48
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Huang, Yunhu",2014-01-17,1.0,tournament_10_49,49,10,10.49
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Zhu, Guobiao",2014-01-17,0.5,tournament_10_50,50,10,10.50
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Wang, Jianyao",2014-01-19,0.0,tournament_10_51,51,10,10.51
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Wang, Cai",2014-01-19,0.5,tournament_10_52,52,10,10.52
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Chen, Yuyu",2014-01-19,0.5,tournament_10_53,53,10,10.53
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Wang, Jin",2014-01-19,0.0,tournament_10_54,54,10,10.54
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Song, Zeji",2014-01-19,0.5,tournament_10_55,55,10,10.55
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Liang, Shujun",2014-01-19,0.0,tournament_10_56,56,10,10.56
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Chen, Yuke",2014-01-19,0.5,tournament_10_57,57,10,10.57
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Xing, Qiping",2014-01-19,1.0,tournament_10_58,58,10,10.58
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Xu, Chenliang",2014-01-19,0.5,tournament_10_59,59,10,10.59
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Gao, Xiaochen",2014-01-19,0.0,tournament_10_60,60,10,10.60
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Lv, Yiguo",2014-01-19,0.5,tournament_10_61,61,10,10.61
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Zhou, Xialan",2014-01-19,1.0,tournament_10_62,62,10,10.62
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Zhao, Wenmei",2014-01-19,0.5,tournament_10_63,63,10,10.63
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Tian, Xiong",2014-01-19,1.0,tournament_10_64,64,10,10.64
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Huang, Feirui",2014-01-19,0.5,tournament_10_65,65,10,10.65
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Wang, Dian",2014-01-19,0.0,tournament_10_66,66,10,10.66
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Xuanyan","Zhu, Qingzhen",2014-01-19,0.0,tournament_10_67,67,10,10.67
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Li, Hai",2014-01-19,0.0,tournament_10_68,68,10,10.68
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Zhao, Baoyu",2014-01-19,0.0,tournament_10_69,69,10,10.69
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Cao, Yiping",2014-01-19,0.5,tournament_10_70,70,10,10.70
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Guobiao","Pang, Ronggang",2014-01-19,0.5,tournament_10_71,71,10,10.71
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Wu, Haifang",2014-01-19,0.5,tournament_10_72,72,10,10.72
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Zhang, Qiyan",2014-01-19,0.0,tournament_10_73,73,10,10.73
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Lu, Yingfu",2014-01-19,1.0,tournament_10_74,74,10,10.74
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Lu, Xingmiao",2014-01-19,1.0,tournament_10_75,75,10,10.75
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Huang, Mengli",2014-01-21,0.5,tournament_10_76,76,10,10.76
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Li, Minkang",2014-01-21,0.5,tournament_10_77,77,10,10.77
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Jiang, Degang",2014-01-21,0.5,tournament_10_78,78,10,10.78
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Liang, Jiyue",2014-01-21,1.0,tournament_10_79,79,10,10.79
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Xu, Xiaozhi",2014-01-21,0.5,tournament_10_80,80,10,10.80
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Yuan, Yue",2014-01-21,1.0,tournament_10_81,81,10,10.81
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Wen, Yongxi",2014-01-21,1.0,tournament_10_82,82,10,10.82
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Liu, Kaiqing",2014-01-21,0.0,tournament_10_83,83,10,10.83
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Hu, Jingxin",2014-01-21,0.5,tournament_10_84,84,10,10.84
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Wei, Ming",2014-01-21,0.0,tournament_10_85,85,10,10.85
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Li, Zhengji",2014-01-21,0.5,tournament_10_86,86,10,10.86
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Shen, Jianqin",2014-01-21,0.5,tournament_10_87,87,10,10.87
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Liu, Aigui",2014-01-21,0.5,tournament_10_88,88,10,10.88
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Xu, Fuying",2014-01-21,0.5,tournament_10_89,89,10,10.89
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Liang, Qing",2014-01-21,0.5,tournament_10_90,90,10,10.90
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Lin, Yuanhao",2014-01-21,0.0,tournament_10_91,91,10,10.91
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Zhu, Guobiao",2014-01-21,0.5,tournament_10_92,92,10,10.92
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Zhang, Muli",2014-01-21,1.0,tournament_10_93,93,10,10.93
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Huang, Yunhu",2014-01-21,0.5,tournament_10_94,94,10,10.94
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Zhang, Zhengnan",2014-01-21,0.5,tournament_10_95,95,10,10.95
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cao, Yiping","Jiang, Yi",2014-01-21,0.5,tournament_10_96,96,10,10.96
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Wang, Xuanyan",2014-01-21,0.5,tournament_10_97,97,10,10.97
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Guo, Hongmin",2014-01-21,1.0,tournament_10_98,98,10,10.98
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Zhang, Yajuan",2014-01-21,0.5,tournament_10_99,99,10,10.99
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Cai, Qi",2014-01-21,0.0,tournament_10_100,100,10,10.100
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Wang, Jianyao",2014-01-23,0.5,tournament_10_101,101,10,10.101
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Wang, Jin",2014-01-23,1.0,tournament_10_102,102,10,10.102
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Gao, Xiaochen",2014-01-23,0.5,tournament_10_103,103,10,10.103
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Wang, Cai",2014-01-23,0.5,tournament_10_104,104,10,10.104
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Chen, Yuyu",2014-01-23,0.0,tournament_10_105,105,10,10.105
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Liang, Shujun",2014-01-23,0.5,tournament_10_106,106,10,10.106
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Song, Zeji",2014-01-23,0.5,tournament_10_107,107,10,10.107
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Xu, Chenliang",2014-01-23,1.0,tournament_10_108,108,10,10.108
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Wang, Dian",2014-01-23,0.5,tournament_10_109,109,10,10.109
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Zhu, Qingzhen",2014-01-23,1.0,tournament_10_110,110,10,10.110
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Li, Hai",2014-01-23,0.5,tournament_10_111,111,10,10.111
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Zhao, Baoyu",2014-01-23,0.5,tournament_10_112,112,10,10.112
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Zhang, Qiyan",2014-01-23,0.5,tournament_10_113,113,10,10.113
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Chen, Yuke",2014-01-23,0.0,tournament_10_114,114,10,10.114
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Lv, Yiguo",2014-01-23,1.0,tournament_10_115,115,10,10.115
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Guobiao","Xing, Qiping",2014-01-23,0.0,tournament_10_116,116,10,10.116
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Huang, Feirui",2014-01-23,0.5,tournament_10_117,117,10,10.117
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Zhao, Wenmei",2014-01-23,0.0,tournament_10_118,118,10,10.118
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Zhou, Xialan",2014-01-23,0.5,tournament_10_119,119,10,10.119
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Tian, Xiong",2014-01-23,0.0,tournament_10_120,120,10,10.120
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Cao, Yiping",2014-01-23,0.5,tournament_10_121,121,10,10.121
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Lu, Yingfu",2014-01-23,0.0,tournament_10_122,122,10,10.122
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Lu, Xingmiao",2014-01-23,0.0,tournament_10_123,123,10,10.123
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Xuanyan","Wu, Haifang",2014-01-23,0.5,tournament_10_124,124,10,10.124
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Pang, Ronggang",2014-01-23,0.5,tournament_10_125,125,10,10.125
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Jiang, Degang",2014-01-25,0.5,tournament_10_126,126,10,10.126
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Huang, Mengli",2014-01-25,0.0,tournament_10_127,127,10,10.127
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Li, Minkang",2014-01-25,0.5,tournament_10_128,128,10,10.128
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Wei, Ming",2014-01-25,1.0,tournament_10_129,129,10,10.129
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Xu, Xiaozhi",2014-01-25,0.5,tournament_10_130,130,10,10.130
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Wen, Yongxi",2014-01-25,1.0,tournament_10_131,131,10,10.131
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Hu, Jingxin",2014-01-25,1.0,tournament_10_132,132,10,10.132
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Liu, Kaiqing",2014-01-25,1.0,tournament_10_133,133,10,10.133
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Liang, Jiyue",2014-01-25,0.5,tournament_10_134,134,10,10.134
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Yuan, Yue",2014-01-25,0.0,tournament_10_135,135,10,10.135
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Li, Zhengji",2014-01-25,0.0,tournament_10_136,136,10,10.136
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Shen, Jianqin",2014-01-25,0.5,tournament_10_137,137,10,10.137
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Xu, Fuying",2014-01-25,0.5,tournament_10_138,138,10,10.138
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Liu, Aigui",2014-01-25,0.5,tournament_10_139,139,10,10.139
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Lin, Yuanhao",2014-01-25,1.0,tournament_10_140,140,10,10.140
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Cai, Qi",2014-01-25,1.0,tournament_10_141,141,10,10.141
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Huang, Yunhu",2014-01-25,1.0,tournament_10_142,142,10,10.142
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Zhu, Guobiao",2014-01-25,1.0,tournament_10_143,143,10,10.143
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Liang, Qing",2014-01-25,0.5,tournament_10_144,144,10,10.144
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Zhang, Zhengnan",2014-01-25,0.5,tournament_10_145,145,10,10.145
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cao, Yiping","Zhang, Muli",2014-01-25,0.5,tournament_10_146,146,10,10.146
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Zhang, Yajuan",2014-01-25,0.5,tournament_10_147,147,10,10.147
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Guo, Hongmin",2014-01-25,0.5,tournament_10_148,148,10,10.148
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Wang, Xuanyan",2014-01-25,0.5,tournament_10_149,149,10,10.149
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Jiang, Yi",2014-01-25,1.0,tournament_10_150,150,10,10.150
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Chen, Yuyu",2014-01-27,0.5,tournament_10_151,151,10,10.151
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Wang, Jianyao",2014-01-27,0.0,tournament_10_152,152,10,10.152
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Wang, Jin",2014-01-27,1.0,tournament_10_153,153,10,10.153
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Liang, Shujun",2014-01-27,0.5,tournament_10_154,154,10,10.154
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Song, Zeji",2014-01-27,0.5,tournament_10_155,155,10,10.155
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Gao, Xiaochen",2014-01-27,0.5,tournament_10_156,156,10,10.156
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Wang, Cai",2014-01-27,0.0,tournament_10_157,157,10,10.157
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Wang, Dian",2014-01-27,0.0,tournament_10_158,158,10,10.158
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Li, Hai",2014-01-27,0.5,tournament_10_159,159,10,10.159
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Chen, Yuke",2014-01-27,1.0,tournament_10_160,160,10,10.160
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Xing, Qiping",2014-01-27,1.0,tournament_10_161,161,10,10.161
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Zhu, Qingzhen",2014-01-27,0.5,tournament_10_162,162,10,10.162
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Huang, Feirui",2014-01-27,1.0,tournament_10_163,163,10,10.163
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Zhao, Wenmei",2014-01-27,1.0,tournament_10_164,164,10,10.164
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Tian, Xiong",2014-01-27,0.5,tournament_10_165,165,10,10.165
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Zhao, Baoyu",2014-01-27,0.0,tournament_10_166,166,10,10.166
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Zhang, Qiyan",2014-01-27,0.5,tournament_10_167,167,10,10.167
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Xu, Chenliang",2014-01-27,0.0,tournament_10_168,168,10,10.168
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Wu, Haifang",2014-01-27,0.5,tournament_10_169,169,10,10.169
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Xuanyan","Lv, Yiguo",2014-01-27,0.5,tournament_10_170,170,10,10.170
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Guobiao","Zhou, Xialan",2014-01-27,0.5,tournament_10_171,171,10,10.171
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Cao, Yiping",2014-01-27,0.5,tournament_10_172,172,10,10.172
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Pang, Ronggang",2014-01-27,0.5,tournament_10_173,173,10,10.173
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Lu, Yingfu",2014-01-27,0.5,tournament_10_174,174,10,10.174
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Lu, Xingmiao",2014-01-27,1.0,tournament_10_175,175,10,10.175
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Huang, Mengli",2014-01-29,0.0,tournament_10_176,176,10,10.176
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Li, Zhengji",2014-01-29,0.5,tournament_10_177,177,10,10.177
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Shen, Jianqin",2014-01-29,1.0,tournament_10_178,178,10,10.178
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Li, Minkang",2014-01-29,0.5,tournament_10_179,179,10,10.179
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Xu, Fuying",2014-01-29,1.0,tournament_10_180,180,10,10.180
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Xu, Xiaozhi",2014-01-29,0.5,tournament_10_181,181,10,10.181
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Jiang, Degang",2014-01-29,0.0,tournament_10_182,182,10,10.182
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Hu, Jingxin",2014-01-29,0.5,tournament_10_183,183,10,10.183
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Yuan, Yue",2014-01-29,0.5,tournament_10_184,184,10,10.184
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Liu, Kaiqing",2014-01-29,1.0,tournament_10_185,185,10,10.185
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Liu, Aigui",2014-01-29,0.0,tournament_10_186,186,10,10.186
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Liang, Jiyue",2014-01-29,0.5,tournament_10_187,187,10,10.187
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Wei, Ming",2014-01-29,0.0,tournament_10_188,188,10,10.188
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Wen, Yongxi",2014-01-29,1.0,tournament_10_189,189,10,10.189
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Lin, Yuanhao",2014-01-29,1.0,tournament_10_190,190,10,10.190
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Wang, Xuanyan",2014-01-29,1.0,tournament_10_191,191,10,10.191
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Zhang, Zhengnan",2014-01-29,1.0,tournament_10_192,192,10,10.192
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Cai, Qi",2014-01-29,1.0,tournament_10_193,193,10,10.193
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Huang, Yunhu",2014-01-29,0.0,tournament_10_194,194,10,10.194
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Liang, Qing",2014-01-29,0.5,tournament_10_195,195,10,10.195
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Jiang, Yi",2014-01-29,1.0,tournament_10_196,196,10,10.196
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Pang, Ronggang",2014-01-29,0.0,tournament_10_197,197,10,10.197
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Guo, Hongmin",2014-01-29,0.0,tournament_10_198,198,10,10.198
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cao, Yiping","Zhu, Guobiao",2014-01-29,1.0,tournament_10_199,199,10,10.199
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Zhang, Muli",2014-01-29,0.5,tournament_10_200,200,10,10.200
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Song, Zeji",2014-01-31,1.0,tournament_10_201,201,10,10.201
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Wang, Jianyao",2014-01-31,1.0,tournament_10_202,202,10,10.202
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Chen, Yuyu",2014-01-31,1.0,tournament_10_203,203,10,10.203
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Wang, Cai",2014-01-31,1.0,tournament_10_204,204,10,10.204
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Wang, Dian",2014-01-31,0.5,tournament_10_205,205,10,10.205
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Liang, Shujun",2014-01-31,0.5,tournament_10_206,206,10,10.206
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Gao, Xiaochen",2014-01-31,0.5,tournament_10_207,207,10,10.207
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Zhu, Qingzhen",2014-01-31,0.5,tournament_10_208,208,10,10.208
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Wang, Jin",2014-01-31,0.5,tournament_10_209,209,10,10.209
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Li, Hai",2014-01-31,0.5,tournament_10_210,210,10,10.210
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Zhao, Baoyu",2014-01-31,0.5,tournament_10_211,211,10,10.211
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Chen, Yuke",2014-01-31,1.0,tournament_10_212,212,10,10.212
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Xing, Qiping",2014-01-31,0.0,tournament_10_213,213,10,10.213
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Huang, Feirui",2014-01-31,0.5,tournament_10_214,214,10,10.214
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Zhao, Wenmei",2014-01-31,0.0,tournament_10_215,215,10,10.215
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Zhang, Qiyan",2014-01-31,0.5,tournament_10_216,216,10,10.216
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Xuanyan","Tian, Xiong",2014-01-31,0.5,tournament_10_217,217,10,10.217
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Xu, Chenliang",2014-01-31,0.5,tournament_10_218,218,10,10.218
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Zhou, Xialan",2014-01-31,0.5,tournament_10_219,219,10,10.219
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Cao, Yiping",2014-01-31,0.5,tournament_10_220,220,10,10.220
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Zhang, Yajuan",2014-01-31,1.0,tournament_10_221,221,10,10.221
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Wu, Haifang",2014-01-31,1.0,tournament_10_222,222,10,10.222
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Lu, Yingfu",2014-01-31,0.5,tournament_10_223,223,10,10.223
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Zhu, Guobiao",2014-01-31,0.5,tournament_10_224,224,10,10.224
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Lu, Xingmiao",2014-01-31,0.5,tournament_10_225,225,10,10.225
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Huang, Mengli",2014-02-02,0.5,tournament_10_226,226,10,10.226
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Shen, Jianqin",2014-02-02,1.0,tournament_10_227,227,10,10.227
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Liu, Aigui",2014-02-02,1.0,tournament_10_228,228,10,10.228
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Li, Zhengji",2014-02-02,1.0,tournament_10_229,229,10,10.229
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Xu, Fuying",2014-02-02,1.0,tournament_10_230,230,10,10.230
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Li, Minkang",2014-02-02,0.5,tournament_10_231,231,10,10.231
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Liang, Jiyue",2014-02-02,0.0,tournament_10_232,232,10,10.232
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Jiang, Degang",2014-02-02,0.5,tournament_10_233,233,10,10.233
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Xu, Xiaozhi",2014-02-02,0.5,tournament_10_234,234,10,10.234
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Yuan, Yue",2014-02-02,0.0,tournament_10_235,235,10,10.235
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Hu, Jingxin",2014-02-02,1.0,tournament_10_236,236,10,10.236
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Huang, Yunhu",2014-02-02,1.0,tournament_10_237,237,10,10.237
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Wei, Ming",2014-02-02,0.5,tournament_10_238,238,10,10.238
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Guo, Hongmin",2014-02-02,1.0,tournament_10_239,239,10,10.239
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Liu, Kaiqing",2014-02-02,0.0,tournament_10_240,240,10,10.240
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Wen, Yongxi",2014-02-02,0.5,tournament_10_241,241,10,10.241
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Zhang, Zhengnan",2014-02-02,1.0,tournament_10_242,242,10,10.242
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Jiang, Yi",2014-02-02,1.0,tournament_10_243,243,10,10.243
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Wang, Xuanyan",2014-02-02,1.0,tournament_10_244,244,10,10.244
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Cai, Qi",2014-02-02,0.0,tournament_10_245,245,10,10.245
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Zhu, Guobiao",2014-02-02,1.0,tournament_10_246,246,10,10.246
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Yajuan","Zhang, Muli",2014-02-02,0.0,tournament_10_247,247,10,10.247
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Liang, Qing",2014-02-02,1.0,tournament_10_248,248,10,10.248
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Lu, Yingfu",2014-02-02,0.0,tournament_10_249,249,10,10.249
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Cao, Yiping",2014-02-02,0.0,tournament_10_250,250,10,10.250
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Mengli","Zhu, Qingzhen",2014-02-04,0.5,tournament_10_251,251,10,10.251
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Jiyue","Wang, Jianyao",2014-02-04,0.0,tournament_10_252,252,10,10.252
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Yuan, Yue","Chen, Yuyu",2014-02-04,0.5,tournament_10_253,253,10,10.253
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Aigui","Wang, Cai",2014-02-04,0.5,tournament_10_254,254,10,10.254
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Degang","Wang, Dian",2014-02-04,0.5,tournament_10_255,255,10,10.255
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Zhengji","Song, Zeji",2014-02-04,1.0,tournament_10_256,256,10,10.256
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Shen, Jianqin","Liang, Shujun",2014-02-04,0.5,tournament_10_257,257,10,10.257
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Minkang","Xing, Qiping",2014-02-04,0.5,tournament_10_258,258,10,10.258
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Fuying","Wang, Jin",2014-02-04,0.0,tournament_10_259,259,10,10.259
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Xiaozhi","Li, Hai",2014-02-04,0.0,tournament_10_260,260,10,10.260
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wei, Ming","Huang, Feirui",2014-02-04,1.0,tournament_10_261,261,10,10.261
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Yunhu","Gao, Xiaochen",2014-02-04,0.0,tournament_10_262,262,10,10.262
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Hu, Jingxin","Zhao, Wenmei",2014-02-04,0.5,tournament_10_263,263,10,10.263
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lin, Yuanhao","Zhao, Baoyu",2014-02-04,0.5,tournament_10_264,264,10,10.264
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liu, Kaiqing","Pang, Ronggang",2014-02-04,1.0,tournament_10_265,265,10,10.265
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Muli","Chen, Yuke",2014-02-04,0.0,tournament_10_266,266,10,10.266
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Tian, Xiong",2014-02-04,0.0,tournament_10_267,267,10,10.267
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Zhengnan","Xu, Chenliang",2014-02-04,0.5,tournament_10_268,268,10,10.268
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wen, Yongxi","Cao, Yiping",2014-02-04,0.5,tournament_10_269,269,10,10.269
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhou, Xialan","Lv, Yiguo",2014-02-04,0.5,tournament_10_270,270,10,10.270
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Jiang, Yi","Wang, Xuanyan",2014-02-04,0.5,tournament_10_271,271,10,10.271
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cai, Qi","Zhang, Yajuan",2014-02-04,0.5,tournament_10_272,272,10,10.272
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Guobiao","Zhang, Qiyan",2014-02-04,0.5,tournament_10_273,273,10,10.273
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Wu, Haifang",2014-02-04,0.0,tournament_10_274,274,10,10.274
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Qing","Lu, Xingmiao",2014-02-04,0.5,tournament_10_275,275,10,10.275
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Li, Hai","Huang, Mengli",2014-02-06,0.5,tournament_10_276,276,10,10.276
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jianyao","Liu, Kaiqing",2014-02-06,1.0,tournament_10_277,277,10,10.277
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuyu","Wei, Ming",2014-02-06,1.0,tournament_10_278,278,10,10.278
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Cai","Yuan, Yue",2014-02-06,0.5,tournament_10_279,279,10,10.279
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Dian","Liu, Aigui",2014-02-06,0.5,tournament_10_280,280,10,10.280
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wang, Jin","Li, Zhengji",2014-02-06,1.0,tournament_10_281,281,10,10.281
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Song, Zeji","Shen, Jianqin",2014-02-06,1.0,tournament_10_282,282,10,10.282
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Liang, Shujun","Liang, Jiyue",2014-02-06,0.5,tournament_10_283,283,10,10.283
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhu, Qingzhen","Li, Minkang",2014-02-06,0.0,tournament_10_284,284,10,10.284
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Chen, Yuke","Jiang, Degang",2014-02-06,0.5,tournament_10_285,285,10,10.285
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xing, Qiping","Xu, Xiaozhi",2014-02-06,0.5,tournament_10_286,286,10,10.286
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Gao, Xiaochen","Lin, Yuanhao",2014-02-06,1.0,tournament_10_287,287,10,10.287
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Tian, Xiong","Hu, Jingxin",2014-02-06,1.0,tournament_10_288,288,10,10.288
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Huang, Feirui","Xu, Fuying",2014-02-06,0.5,tournament_10_289,289,10,10.289
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Wenmei","Zhang, Muli",2014-02-06,1.0,tournament_10_290,290,10,10.290
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhao, Baoyu","Wen, Yongxi",2014-02-06,0.5,tournament_10_291,291,10,10.291
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Xu, Chenliang","Huang, Yunhu",2014-02-06,0.0,tournament_10_292,292,10,10.292
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Cao, Yiping","Liang, Qing",2014-02-06,1.0,tournament_10_293,293,10,10.293
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Pang, Ronggang","Cai, Qi",2014-02-06,0.5,tournament_10_294,294,10,10.294
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lv, Yiguo","Zhang, Yajuan",2014-02-06,0.5,tournament_10_295,295,10,10.295
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Yingfu","Wang, Xuanyan",2014-02-06,0.0,tournament_10_296,296,10,10.296
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Lu, Xingmiao","Zhu, Guobiao",2014-02-06,0.5,tournament_10_297,297,10,10.297
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Zhang, Qiyan","Jiang, Yi",2014-02-06,1.0,tournament_10_298,298,10,10.298
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Wu, Haifang","Zhou, Xialan",2014-02-06,0.0,tournament_10_299,299,10,10.299
+tournament_10,2014-01-15,2014-02-08,12,rapid,"Guo, Hongmin","Zhang, Zhengnan",2014-02-06,0.5,tournament_10_300,300,10,10.300
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,王剑妹,2014-08-29,0.5,tournament_100_1,1,100,100.1
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,冯三立,2014-08-29,0.5,tournament_100_2,2,100,100.2
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,谭尧,2014-08-29,1.0,tournament_100_3,3,100,100.3
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,王殿,2014-08-29,1.0,tournament_100_4,4,100,100.4
+tournament_100,2014-08-29,2014-09-22,12,classic,徐耀祥,李秀寿,2014-08-29,0.0,tournament_100_5,5,100,100.5
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,谭卓佳,2014-08-29,0.0,tournament_100_6,6,100,100.6
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,张海航,2014-08-29,1.0,tournament_100_7,7,100,100.7
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,段振,2014-08-29,1.0,tournament_100_8,8,100,100.8
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,杨承,2014-08-29,1.0,tournament_100_9,9,100,100.9
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,田佳达,2014-08-29,1.0,tournament_100_10,10,100,100.10
+tournament_100,2014-08-29,2014-09-22,12,classic,李禄娟,丁晨彤,2014-08-29,0.0,tournament_100_11,11,100,100.11
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,何驿艳,2014-08-29,1.0,tournament_100_12,12,100,100.12
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,史智,2014-08-29,1.0,tournament_100_13,13,100,100.13
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,魏兴,2014-08-29,1.0,tournament_100_14,14,100,100.14
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,彭国,2014-08-29,0.0,tournament_100_15,15,100,100.15
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,章泽,2014-08-29,0.0,tournament_100_16,16,100,100.16
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,赵晋耕,2014-08-29,0.5,tournament_100_17,17,100,100.17
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,刘改川,2014-08-29,0.5,tournament_100_18,18,100,100.18
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,周影吉,2014-08-29,0.0,tournament_100_19,19,100,100.19
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,傅建,2014-08-29,1.0,tournament_100_20,20,100,100.20
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,顾加军,2014-08-29,0.5,tournament_100_21,21,100,100.21
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,彭捷慧,2014-08-29,1.0,tournament_100_22,22,100,100.22
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,邓烈,2014-08-29,1.0,tournament_100_23,23,100,100.23
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,卢来青,2014-08-29,0.5,tournament_100_24,24,100,100.24
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,李利平,2014-08-29,0.5,tournament_100_25,25,100,100.25
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,许士波,2014-08-29,0.5,tournament_100_26,26,100,100.26
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,金志,2014-08-29,1.0,tournament_100_27,27,100,100.27
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,王瑶珠,2014-08-29,1.0,tournament_100_28,28,100,100.28
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,王加娟,2014-08-29,0.5,tournament_100_29,29,100,100.29
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,赵西勇,2014-08-29,0.5,tournament_100_30,30,100,100.30
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,刘宇福,2014-08-29,0.5,tournament_100_31,31,100,100.31
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,陈春,2014-08-29,0.5,tournament_100_32,32,100,100.32
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,徐铭,2014-08-29,0.5,tournament_100_33,33,100,100.33
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,邹江祥,2014-08-29,0.5,tournament_100_34,34,100,100.34
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,杨慧,2014-08-29,1.0,tournament_100_35,35,100,100.35
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,金心峰,2014-08-29,0.0,tournament_100_36,36,100,100.36
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,蔡玉雪,2014-08-31,0.5,tournament_100_37,37,100,100.37
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,刘碧艳,2014-08-31,0.0,tournament_100_38,38,100,100.38
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,马朝风,2014-08-31,0.5,tournament_100_39,39,100,100.39
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,张艺燕,2014-08-31,1.0,tournament_100_40,40,100,100.40
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,方东,2014-08-31,1.0,tournament_100_41,41,100,100.41
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,孙义敏,2014-08-31,0.0,tournament_100_42,42,100,100.42
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,冯隆美,2014-08-31,1.0,tournament_100_43,43,100,100.43
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,王俊,2014-08-31,1.0,tournament_100_44,44,100,100.44
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,王由航,2014-08-31,1.0,tournament_100_45,45,100,100.45
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,贾烨广,2014-08-31,0.5,tournament_100_46,46,100,100.46
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,梁梅强,2014-08-31,0.0,tournament_100_47,47,100,100.47
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,郑宣珍,2014-08-31,0.5,tournament_100_48,48,100,100.48
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,范存妞,2014-08-31,0.0,tournament_100_49,49,100,100.49
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,陈一,2014-08-31,0.5,tournament_100_50,50,100,100.50
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,吴雄苍,2014-08-31,0.5,tournament_100_51,51,100,100.51
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,李舒初,2014-08-31,0.0,tournament_100_52,52,100,100.52
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,郝华琳,2014-08-31,0.0,tournament_100_53,53,100,100.53
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,郭周哲,2014-08-31,0.5,tournament_100_54,54,100,100.54
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,孟芳全,2014-08-31,0.0,tournament_100_55,55,100,100.55
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,谢庆麟,2014-08-31,0.5,tournament_100_56,56,100,100.56
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,胡建萍,2014-08-31,0.5,tournament_100_57,57,100,100.57
+tournament_100,2014-08-29,2014-09-22,12,classic,谭尧,郝星,2014-08-31,0.0,tournament_100_58,58,100,100.58
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,阎斯钧,2014-08-31,0.5,tournament_100_59,59,100,100.59
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,乔宏琪,2014-08-31,0.0,tournament_100_60,60,100,100.60
+tournament_100,2014-08-29,2014-09-22,12,classic,段振,冯柏贞,2014-08-31,0.0,tournament_100_61,61,100,100.61
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,祝艳光,2014-08-31,0.5,tournament_100_62,62,100,100.62
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,林源浩,2014-08-31,0.0,tournament_100_63,63,100,100.63
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,李文子,2014-08-31,1.0,tournament_100_64,64,100,100.64
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,史一姣,2014-08-31,0.5,tournament_100_65,65,100,100.65
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,王真直,2014-08-31,0.0,tournament_100_66,66,100,100.66
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,徐耀祥,2014-08-31,1.0,tournament_100_67,67,100,100.67
+tournament_100,2014-08-29,2014-09-22,12,classic,彭捷慧,周忠雷,2014-08-31,0.0,tournament_100_68,68,100,100.68
+tournament_100,2014-08-29,2014-09-22,12,classic,邓烈,李禄娟,2014-08-31,0.5,tournament_100_69,69,100,100.69
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,陈宸云,2014-08-31,1.0,tournament_100_70,70,100,100.70
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,王江基,2014-08-31,0.0,tournament_100_71,71,100,100.71
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,梁良,2014-08-31,0.5,tournament_100_72,72,100,100.72
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,彭国,2014-09-02,0.5,tournament_100_73,73,100,100.73
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,章泽,2014-09-02,0.0,tournament_100_74,74,100,100.74
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,金心峰,2014-09-02,1.0,tournament_100_75,75,100,100.75
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,李秀寿,2014-09-02,1.0,tournament_100_76,76,100,100.76
+tournament_100,2014-08-29,2014-09-22,12,classic,李舒初,丁晨彤,2014-09-02,1.0,tournament_100_77,77,100,100.77
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,王剑妹,2014-09-02,0.0,tournament_100_78,78,100,100.78
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,冯三立,2014-09-02,1.0,tournament_100_79,79,100,100.79
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,谭卓佳,2014-09-02,1.0,tournament_100_80,80,100,100.80
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,周影吉,2014-09-02,1.0,tournament_100_81,81,100,100.81
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,赵晋耕,2014-09-02,0.0,tournament_100_82,82,100,100.82
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,顾加军,2014-09-02,0.5,tournament_100_83,83,100,100.83
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,李利平,2014-09-02,0.5,tournament_100_84,84,100,100.84
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,许士波,2014-09-02,1.0,tournament_100_85,85,100,100.85
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,刘宇福,2014-09-02,1.0,tournament_100_86,86,100,100.86
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,徐铭,2014-09-02,0.5,tournament_100_87,87,100,100.87
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,邹江祥,2014-09-02,0.5,tournament_100_88,88,100,100.88
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,何驿艳,2014-09-02,0.0,tournament_100_89,89,100,100.89
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,傅建,2014-09-02,1.0,tournament_100_90,90,100,100.90
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,金志,2014-09-02,1.0,tournament_100_91,91,100,100.91
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,刘改川,2014-09-02,0.5,tournament_100_92,92,100,100.92
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,卢来青,2014-09-02,0.5,tournament_100_93,93,100,100.93
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,王加娟,2014-09-02,1.0,tournament_100_94,94,100,100.94
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,赵西勇,2014-09-02,1.0,tournament_100_95,95,100,100.95
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,陈春,2014-09-02,1.0,tournament_100_96,96,100,100.96
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,王殿,2014-09-02,0.0,tournament_100_97,97,100,100.97
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,杨承,2014-09-02,1.0,tournament_100_98,98,100,100.98
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,史智,2014-09-02,1.0,tournament_100_99,99,100,100.99
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,邓烈,2014-09-02,1.0,tournament_100_100,100,100,100.100
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,杨慧,2014-09-02,1.0,tournament_100_101,101,100,100.101
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,谭尧,2014-09-02,0.5,tournament_100_102,102,100,100.102
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,张海航,2014-09-02,1.0,tournament_100_103,103,100,100.103
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,段振,2014-09-02,1.0,tournament_100_104,104,100,100.104
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,田佳达,2014-09-02,1.0,tournament_100_105,105,100,100.105
+tournament_100,2014-08-29,2014-09-22,12,classic,李禄娟,魏兴,2014-09-02,0.0,tournament_100_106,106,100,100.106
+tournament_100,2014-08-29,2014-09-22,12,classic,徐耀祥,王瑶珠,2014-09-02,0.0,tournament_100_107,107,100,100.107
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,彭捷慧,2014-09-02,1.0,tournament_100_108,108,100,100.108
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,梁梅强,2014-09-04,0.0,tournament_100_109,109,100,100.109
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,范存妞,2014-09-04,1.0,tournament_100_110,110,100,100.110
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,李舒初,2014-09-04,0.5,tournament_100_111,111,100,100.111
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,刘碧艳,2014-09-04,0.0,tournament_100_112,112,100,100.112
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,马朝风,2014-09-04,1.0,tournament_100_113,113,100,100.113
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,贾烨广,2014-09-04,0.0,tournament_100_114,114,100,100.114
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,郑宣珍,2014-09-04,0.5,tournament_100_115,115,100,100.115
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,孟芳全,2014-09-04,0.5,tournament_100_116,116,100,100.116
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,郝星,2014-09-04,0.5,tournament_100_117,117,100,100.117
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,王真直,2014-09-04,0.5,tournament_100_118,118,100,100.118
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,孙义敏,2014-09-04,0.0,tournament_100_119,119,100,100.119
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,吴雄苍,2014-09-04,0.0,tournament_100_120,120,100,100.120
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,郝华琳,2014-09-04,0.5,tournament_100_121,121,100,100.121
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,乔宏琪,2014-09-04,1.0,tournament_100_122,122,100,100.122
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,冯柏贞,2014-09-04,1.0,tournament_100_123,123,100,100.123
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,张艺燕,2014-09-04,0.5,tournament_100_124,124,100,100.124
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,王俊,2014-09-04,0.5,tournament_100_125,125,100,100.125
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,王由航,2014-09-04,1.0,tournament_100_126,126,100,100.126
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,郭周哲,2014-09-04,0.0,tournament_100_127,127,100,100.127
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,胡建萍,2014-09-04,1.0,tournament_100_128,128,100,100.128
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,阎斯钧,2014-09-04,0.5,tournament_100_129,129,100,100.129
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,祝艳光,2014-09-04,0.5,tournament_100_130,130,100,100.130
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,史一姣,2014-09-04,0.5,tournament_100_131,131,100,100.131
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,王江基,2014-09-04,0.5,tournament_100_132,132,100,100.132
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,董健,2014-09-04,0.5,tournament_100_133,133,100,100.133
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,蔡玉雪,2014-09-04,0.0,tournament_100_134,134,100,100.134
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,陈一,2014-09-04,0.5,tournament_100_135,135,100,100.135
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,林源浩,2014-09-04,0.0,tournament_100_136,136,100,100.136
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,方东,2014-09-04,0.0,tournament_100_137,137,100,100.137
+tournament_100,2014-08-29,2014-09-22,12,classic,邓烈,冯隆美,2014-09-04,0.0,tournament_100_138,138,100,100.138
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,周忠雷,2014-09-04,1.0,tournament_100_139,139,100,100.139
+tournament_100,2014-08-29,2014-09-22,12,classic,谭尧,李文子,2014-09-04,0.0,tournament_100_140,140,100,100.140
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,梁良,2014-09-04,0.5,tournament_100_141,141,100,100.141
+tournament_100,2014-08-29,2014-09-22,12,classic,段振,谢庆麟,2014-09-04,0.0,tournament_100_142,142,100,100.142
+tournament_100,2014-08-29,2014-09-22,12,classic,彭捷慧,李禄娟,2014-09-04,1.0,tournament_100_143,143,100,100.143
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,徐耀祥,2014-09-04,0.0,tournament_100_144,144,100,100.144
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,彭国,2014-09-06,1.0,tournament_100_145,145,100,100.145
+tournament_100,2014-08-29,2014-09-22,12,classic,李舒初,章泽,2014-09-06,0.5,tournament_100_146,146,100,100.146
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,王剑妹,2014-09-06,1.0,tournament_100_147,147,100,100.147
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,王殿,2014-09-06,1.0,tournament_100_148,148,100,100.148
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,赵晋耕,2014-09-06,0.5,tournament_100_149,149,100,100.149
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,金心峰,2014-09-06,0.5,tournament_100_150,150,100,100.150
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,何驿艳,2014-09-06,0.5,tournament_100_151,151,100,100.151
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,李秀寿,2014-09-06,0.5,tournament_100_152,152,100,100.152
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,丁晨彤,2014-09-06,1.0,tournament_100_153,153,100,100.153
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,冯三立,2014-09-06,1.0,tournament_100_154,154,100,100.154
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,邹江祥,2014-09-06,0.5,tournament_100_155,155,100,100.155
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,顾加军,2014-09-06,1.0,tournament_100_156,156,100,100.156
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,谭卓佳,2014-09-06,1.0,tournament_100_157,157,100,100.157
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,刘宇福,2014-09-06,1.0,tournament_100_158,158,100,100.158
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,李利平,2014-09-06,0.5,tournament_100_159,159,100,100.159
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,金志,2014-09-06,0.0,tournament_100_160,160,100,100.160
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,徐铭,2014-09-06,1.0,tournament_100_161,161,100,100.161
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,周影吉,2014-09-06,1.0,tournament_100_162,162,100,100.162
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,许士波,2014-09-06,0.0,tournament_100_163,163,100,100.163
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,刘改川,2014-09-06,0.5,tournament_100_164,164,100,100.164
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,卢来青,2014-09-06,0.5,tournament_100_165,165,100,100.165
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,魏兴,2014-09-06,0.5,tournament_100_166,166,100,100.166
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,王瑶珠,2014-09-06,0.5,tournament_100_167,167,100,100.167
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,杨慧,2014-09-06,0.5,tournament_100_168,168,100,100.168
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,傅建,2014-09-06,0.5,tournament_100_169,169,100,100.169
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,王加娟,2014-09-06,0.5,tournament_100_170,170,100,100.170
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,陈春,2014-09-06,0.5,tournament_100_171,171,100,100.171
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,彭捷慧,2014-09-06,1.0,tournament_100_172,172,100,100.172
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,杨承,2014-09-06,0.5,tournament_100_173,173,100,100.173
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,赵西勇,2014-09-06,1.0,tournament_100_174,174,100,100.174
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,史智,2014-09-06,1.0,tournament_100_175,175,100,100.175
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,邓烈,2014-09-06,1.0,tournament_100_176,176,100,100.176
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,谭尧,2014-09-06,0.5,tournament_100_177,177,100,100.177
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,张海航,2014-09-06,0.0,tournament_100_178,178,100,100.178
+tournament_100,2014-08-29,2014-09-22,12,classic,徐耀祥,段振,2014-09-06,1.0,tournament_100_179,179,100,100.179
+tournament_100,2014-08-29,2014-09-22,12,classic,李禄娟,田佳达,2014-09-06,0.0,tournament_100_180,180,100,100.180
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,梁梅强,2014-09-08,0.5,tournament_100_181,181,100,100.181
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,刘碧艳,2014-09-08,0.5,tournament_100_182,182,100,100.182
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,贾烨广,2014-09-08,0.0,tournament_100_183,183,100,100.183
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,李舒初,2014-09-08,0.0,tournament_100_184,184,100,100.184
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,王真直,2014-09-08,0.5,tournament_100_185,185,100,100.185
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,孙义敏,2014-09-08,0.0,tournament_100_186,186,100,100.186
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,郭周哲,2014-09-08,0.5,tournament_100_187,187,100,100.187
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,范存妞,2014-09-08,0.5,tournament_100_188,188,100,100.188
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,郑宣珍,2014-09-08,0.0,tournament_100_189,189,100,100.189
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,孟芳全,2014-09-08,0.5,tournament_100_190,190,100,100.190
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,郝星,2014-09-08,0.5,tournament_100_191,191,100,100.191
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,吴雄苍,2014-09-08,0.5,tournament_100_192,192,100,100.192
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,马朝风,2014-09-08,1.0,tournament_100_193,193,100,100.193
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,郝华琳,2014-09-08,1.0,tournament_100_194,194,100,100.194
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,阎斯钧,2014-09-08,0.5,tournament_100_195,195,100,100.195
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,祝艳光,2014-09-08,0.5,tournament_100_196,196,100,100.196
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,张艺燕,2014-09-08,0.5,tournament_100_197,197,100,100.197
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,王江基,2014-09-08,1.0,tournament_100_198,198,100,100.198
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,董健,2014-09-08,0.5,tournament_100_199,199,100,100.199
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,蔡玉雪,2014-09-08,0.0,tournament_100_200,200,100,100.200
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,林源浩,2014-09-08,0.5,tournament_100_201,201,100,100.201
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,方东,2014-09-08,0.5,tournament_100_202,202,100,100.202
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,冯隆美,2014-09-08,1.0,tournament_100_203,203,100,100.203
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,李文子,2014-09-08,0.0,tournament_100_204,204,100,100.204
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,冯柏贞,2014-09-08,0.5,tournament_100_205,205,100,100.205
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,胡建萍,2014-09-08,0.0,tournament_100_206,206,100,100.206
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,陈一,2014-09-08,0.0,tournament_100_207,207,100,100.207
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,梁良,2014-09-08,1.0,tournament_100_208,208,100,100.208
+tournament_100,2014-08-29,2014-09-22,12,classic,彭捷慧,王俊,2014-09-08,0.0,tournament_100_209,209,100,100.209
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,史一姣,2014-09-08,0.5,tournament_100_210,210,100,100.210
+tournament_100,2014-08-29,2014-09-22,12,classic,谭尧,乔宏琪,2014-09-08,0.0,tournament_100_211,211,100,100.211
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,王由航,2014-09-08,0.5,tournament_100_212,212,100,100.212
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,谢庆麟,2014-09-08,0.5,tournament_100_213,213,100,100.213
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,周忠雷,2014-09-08,0.5,tournament_100_214,214,100,100.214
+tournament_100,2014-08-29,2014-09-22,12,classic,段振,李禄娟,2014-09-08,0.5,tournament_100_215,215,100,100.215
+tournament_100,2014-08-29,2014-09-22,12,classic,邓烈,徐耀祥,2014-09-08,0.0,tournament_100_216,216,100,100.216
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,王剑妹,2014-09-10,0.5,tournament_100_217,217,100,100.217
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,章泽,2014-09-10,1.0,tournament_100_218,218,100,100.218
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,赵晋耕,2014-09-10,1.0,tournament_100_219,219,100,100.219
+tournament_100,2014-08-29,2014-09-22,12,classic,李舒初,彭国,2014-09-10,1.0,tournament_100_220,220,100,100.220
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,金志,2014-09-10,1.0,tournament_100_221,221,100,100.221
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,金心峰,2014-09-10,1.0,tournament_100_222,222,100,100.222
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,何驿艳,2014-09-10,1.0,tournament_100_223,223,100,100.223
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,许士波,2014-09-10,0.5,tournament_100_224,224,100,100.224
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,冯三立,2014-09-10,0.5,tournament_100_225,225,100,100.225
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,顾加军,2014-09-10,0.5,tournament_100_226,226,100,100.226
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,李利平,2014-09-10,0.5,tournament_100_227,227,100,100.227
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,李秀寿,2014-09-10,1.0,tournament_100_228,228,100,100.228
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,邹江祥,2014-09-10,0.5,tournament_100_229,229,100,100.229
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,王殿,2014-09-10,1.0,tournament_100_230,230,100,100.230
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,丁晨彤,2014-09-10,0.5,tournament_100_231,231,100,100.231
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,谭卓佳,2014-09-10,0.5,tournament_100_232,232,100,100.232
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,刘宇福,2014-09-10,1.0,tournament_100_233,233,100,100.233
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,刘改川,2014-09-10,1.0,tournament_100_234,234,100,100.234
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,魏兴,2014-09-10,1.0,tournament_100_235,235,100,100.235
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,王瑶珠,2014-09-10,1.0,tournament_100_236,236,100,100.236
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,杨慧,2014-09-10,0.5,tournament_100_237,237,100,100.237
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,徐铭,2014-09-10,0.5,tournament_100_238,238,100,100.238
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,陈春,2014-09-10,0.0,tournament_100_239,239,100,100.239
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,卢来青,2014-09-10,0.5,tournament_100_240,240,100,100.240
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,周影吉,2014-09-10,1.0,tournament_100_241,241,100,100.241
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,傅建,2014-09-10,0.0,tournament_100_242,242,100,100.242
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,王加娟,2014-09-10,1.0,tournament_100_243,243,100,100.243
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,杨承,2014-09-10,1.0,tournament_100_244,244,100,100.244
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,张海航,2014-09-10,1.0,tournament_100_245,245,100,100.245
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,田佳达,2014-09-10,1.0,tournament_100_246,246,100,100.246
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,彭捷慧,2014-09-10,1.0,tournament_100_247,247,100,100.247
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,谭尧,2014-09-10,1.0,tournament_100_248,248,100,100.248
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,史智,2014-09-10,1.0,tournament_100_249,249,100,100.249
+tournament_100,2014-08-29,2014-09-22,12,classic,徐耀祥,赵西勇,2014-09-10,0.5,tournament_100_250,250,100,100.250
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,邓烈,2014-09-10,0.5,tournament_100_251,251,100,100.251
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,段振,2014-09-10,1.0,tournament_100_252,252,100,100.252
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,贾烨广,2014-09-12,0.0,tournament_100_253,253,100,100.253
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,梁梅强,2014-09-12,0.0,tournament_100_254,254,100,100.254
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,刘碧艳,2014-09-12,0.5,tournament_100_255,255,100,100.255
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,李舒初,2014-09-12,0.5,tournament_100_256,256,100,100.256
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,孙义敏,2014-09-12,0.5,tournament_100_257,257,100,100.257
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,王真直,2014-09-12,0.5,tournament_100_258,258,100,100.258
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,郭周哲,2014-09-12,1.0,tournament_100_259,259,100,100.259
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,郑宣珍,2014-09-12,1.0,tournament_100_260,260,100,100.260
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,吴雄苍,2014-09-12,0.5,tournament_100_261,261,100,100.261
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,祝艳光,2014-09-12,0.5,tournament_100_262,262,100,100.262
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,胡建萍,2014-09-12,1.0,tournament_100_263,263,100,100.263
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,陈一,2014-09-12,0.0,tournament_100_264,264,100,100.264
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,范存妞,2014-09-12,0.5,tournament_100_265,265,100,100.265
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,孟芳全,2014-09-12,0.5,tournament_100_266,266,100,100.266
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,郝星,2014-09-12,1.0,tournament_100_267,267,100,100.267
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,阎斯钧,2014-09-12,0.0,tournament_100_268,268,100,100.268
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,蔡玉雪,2014-09-12,0.5,tournament_100_269,269,100,100.269
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,李文子,2014-09-12,0.5,tournament_100_270,270,100,100.270
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,马朝风,2014-09-12,0.5,tournament_100_271,271,100,100.271
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,郝华琳,2014-09-12,0.5,tournament_100_272,272,100,100.272
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,冯柏贞,2014-09-12,0.5,tournament_100_273,273,100,100.273
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,乔宏琪,2014-09-12,0.0,tournament_100_274,274,100,100.274
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,张艺燕,2014-09-12,1.0,tournament_100_275,275,100,100.275
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,董健,2014-09-12,1.0,tournament_100_276,276,100,100.276
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,方东,2014-09-12,0.5,tournament_100_277,277,100,100.277
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,王江基,2014-09-12,0.5,tournament_100_278,278,100,100.278
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,冯隆美,2014-09-12,0.5,tournament_100_279,279,100,100.279
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,梁良,2014-09-12,0.0,tournament_100_280,280,100,100.280
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,史一姣,2014-09-12,0.5,tournament_100_281,281,100,100.281
+tournament_100,2014-08-29,2014-09-22,12,classic,彭捷慧,王由航,2014-09-12,0.5,tournament_100_282,282,100,100.282
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,谢庆麟,2014-09-12,0.5,tournament_100_283,283,100,100.283
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,陈宸云,2014-09-12,0.5,tournament_100_284,284,100,100.284
+tournament_100,2014-08-29,2014-09-22,12,classic,谭尧,林源浩,2014-09-12,0.0,tournament_100_285,285,100,100.285
+tournament_100,2014-08-29,2014-09-22,12,classic,段振,周忠雷,2014-09-12,0.0,tournament_100_286,286,100,100.286
+tournament_100,2014-08-29,2014-09-22,12,classic,邓烈,王俊,2014-09-12,0.5,tournament_100_287,287,100,100.287
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,李禄娟,2014-09-12,0.5,tournament_100_288,288,100,100.288
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,李利平,2014-09-14,0.0,tournament_100_289,289,100,100.289
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,陈春,2014-09-14,1.0,tournament_100_290,290,100,100.290
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,顾加军,2014-09-14,0.0,tournament_100_291,291,100,100.291
+tournament_100,2014-08-29,2014-09-22,12,classic,李舒初,冯三立,2014-09-14,0.5,tournament_100_292,292,100,100.292
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,赵晋耕,2014-09-14,1.0,tournament_100_293,293,100,100.293
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,彭国,2014-09-14,1.0,tournament_100_294,294,100,100.294
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,章泽,2014-09-14,0.0,tournament_100_295,295,100,100.295
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,王剑妹,2014-09-14,0.5,tournament_100_296,296,100,100.296
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,金心峰,2014-09-14,0.5,tournament_100_297,297,100,100.297
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,丁晨彤,2014-09-14,0.5,tournament_100_298,298,100,100.298
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,许士波,2014-09-14,1.0,tournament_100_299,299,100,100.299
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,金志,2014-09-14,1.0,tournament_100_300,300,100,100.300
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,谭卓佳,2014-09-14,1.0,tournament_100_301,301,100,100.301
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,杨慧,2014-09-14,0.5,tournament_100_302,302,100,100.302
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,徐铭,2014-09-14,0.0,tournament_100_303,303,100,100.303
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,邹江祥,2014-09-14,0.5,tournament_100_304,304,100,100.304
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,傅建,2014-09-14,0.0,tournament_100_305,305,100,100.305
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,魏兴,2014-09-14,0.5,tournament_100_306,306,100,100.306
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,何驿艳,2014-09-14,0.5,tournament_100_307,307,100,100.307
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,李秀寿,2014-09-14,1.0,tournament_100_308,308,100,100.308
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,王殿,2014-09-14,1.0,tournament_100_309,309,100,100.309
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,刘宇福,2014-09-14,0.5,tournament_100_310,310,100,100.310
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,王瑶珠,2014-09-14,0.0,tournament_100_311,311,100,100.311
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,王加娟,2014-09-14,1.0,tournament_100_312,312,100,100.312
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,周影吉,2014-09-14,1.0,tournament_100_313,313,100,100.313
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,刘改川,2014-09-14,0.5,tournament_100_314,314,100,100.314
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,卢来青,2014-09-14,1.0,tournament_100_315,315,100,100.315
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,张海航,2014-09-14,0.5,tournament_100_316,316,100,100.316
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,杨承,2014-09-14,0.0,tournament_100_317,317,100,100.317
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,田佳达,2014-09-14,0.5,tournament_100_318,318,100,100.318
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,赵西勇,2014-09-14,0.0,tournament_100_319,319,100,100.319
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,彭捷慧,2014-09-14,0.5,tournament_100_320,320,100,100.320
+tournament_100,2014-08-29,2014-09-22,12,classic,李禄娟,谭尧,2014-09-14,0.0,tournament_100_321,321,100,100.321
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,史智,2014-09-14,1.0,tournament_100_322,322,100,100.322
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,邓烈,2014-09-14,1.0,tournament_100_323,323,100,100.323
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,段振,2014-09-14,1.0,tournament_100_324,324,100,100.324
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,梁梅强,2014-09-16,0.5,tournament_100_325,325,100,100.325
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,贾烨广,2014-09-16,0.5,tournament_100_326,326,100,100.326
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,孙义敏,2014-09-16,0.0,tournament_100_327,327,100,100.327
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,李舒初,2014-09-16,0.5,tournament_100_328,328,100,100.328
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,王真直,2014-09-16,1.0,tournament_100_329,329,100,100.329
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,刘碧艳,2014-09-16,0.0,tournament_100_330,330,100,100.330
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,阎斯钧,2014-09-16,0.5,tournament_100_331,331,100,100.331
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,乔宏琪,2014-09-16,0.5,tournament_100_332,332,100,100.332
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,陈一,2014-09-16,0.5,tournament_100_333,333,100,100.333
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,郭周哲,2014-09-16,0.5,tournament_100_334,334,100,100.334
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,吴雄苍,2014-09-16,0.5,tournament_100_335,335,100,100.335
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,祝艳光,2014-09-16,1.0,tournament_100_336,336,100,100.336
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,郑宣珍,2014-09-16,0.0,tournament_100_337,337,100,100.337
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,郝华琳,2014-09-16,0.5,tournament_100_338,338,100,100.338
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,冯柏贞,2014-09-16,0.5,tournament_100_339,339,100,100.339
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,胡建萍,2014-09-16,0.5,tournament_100_340,340,100,100.340
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,孟芳全,2014-09-16,0.0,tournament_100_341,341,100,100.341
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,李文子,2014-09-16,0.5,tournament_100_342,342,100,100.342
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,马朝风,2014-09-16,0.5,tournament_100_343,343,100,100.343
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,梁良,2014-09-16,1.0,tournament_100_344,344,100,100.344
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,方东,2014-09-16,1.0,tournament_100_345,345,100,100.345
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,王江基,2014-09-16,0.5,tournament_100_346,346,100,100.346
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,史一姣,2014-09-16,0.5,tournament_100_347,347,100,100.347
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,林源浩,2014-09-16,0.5,tournament_100_348,348,100,100.348
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,徐耀祥,2014-09-16,0.5,tournament_100_349,349,100,100.349
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,范存妞,2014-09-16,0.0,tournament_100_350,350,100,100.350
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,蔡玉雪,2014-09-16,0.5,tournament_100_351,351,100,100.351
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,冯隆美,2014-09-16,1.0,tournament_100_352,352,100,100.352
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,王由航,2014-09-16,0.0,tournament_100_353,353,100,100.353
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,董健,2014-09-16,1.0,tournament_100_354,354,100,100.354
+tournament_100,2014-08-29,2014-09-22,12,classic,谭尧,张艺燕,2014-09-16,0.5,tournament_100_355,355,100,100.355
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,陈宸云,2014-09-16,1.0,tournament_100_356,356,100,100.356
+tournament_100,2014-08-29,2014-09-22,12,classic,李禄娟,谢庆麟,2014-09-16,0.0,tournament_100_357,357,100,100.357
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,段振,2014-09-16,0.5,tournament_100_358,358,100,100.358
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,郝星,2014-09-16,0.0,tournament_100_359,359,100,100.359
+tournament_100,2014-08-29,2014-09-22,12,classic,邓烈,彭捷慧,2014-09-16,0.5,tournament_100_360,360,100,100.360
+tournament_100,2014-08-29,2014-09-22,12,classic,梁梅强,顾加军,2014-09-18,0.5,tournament_100_361,361,100,100.361
+tournament_100,2014-08-29,2014-09-22,12,classic,孙义敏,王剑妹,2014-09-18,1.0,tournament_100_362,362,100,100.362
+tournament_100,2014-08-29,2014-09-22,12,classic,贾烨广,冯三立,2014-09-18,1.0,tournament_100_363,363,100,100.363
+tournament_100,2014-08-29,2014-09-22,12,classic,李舒初,李利平,2014-09-18,1.0,tournament_100_364,364,100,100.364
+tournament_100,2014-08-29,2014-09-22,12,classic,刘碧艳,徐铭,2014-09-18,0.0,tournament_100_365,365,100,100.365
+tournament_100,2014-08-29,2014-09-22,12,classic,王真直,陈春,2014-09-18,0.5,tournament_100_366,366,100,100.366
+tournament_100,2014-08-29,2014-09-22,12,classic,阎斯钧,赵晋耕,2014-09-18,0.5,tournament_100_367,367,100,100.367
+tournament_100,2014-08-29,2014-09-22,12,classic,乔宏琪,章泽,2014-09-18,0.5,tournament_100_368,368,100,100.368
+tournament_100,2014-08-29,2014-09-22,12,classic,郑宣珍,傅建,2014-09-18,0.5,tournament_100_369,369,100,100.369
+tournament_100,2014-08-29,2014-09-22,12,classic,陈一,金心峰,2014-09-18,0.5,tournament_100_370,370,100,100.370
+tournament_100,2014-08-29,2014-09-22,12,classic,郭周哲,彭国,2014-09-18,1.0,tournament_100_371,371,100,100.371
+tournament_100,2014-08-29,2014-09-22,12,classic,吴雄苍,魏兴,2014-09-18,0.5,tournament_100_372,372,100,100.372
+tournament_100,2014-08-29,2014-09-22,12,classic,郝华琳,丁晨彤,2014-09-18,1.0,tournament_100_373,373,100,100.373
+tournament_100,2014-08-29,2014-09-22,12,classic,冯柏贞,何驿艳,2014-09-18,0.5,tournament_100_374,374,100,100.374
+tournament_100,2014-08-29,2014-09-22,12,classic,孟芳全,王瑶珠,2014-09-18,1.0,tournament_100_375,375,100,100.375
+tournament_100,2014-08-29,2014-09-22,12,classic,祝艳光,邹江祥,2014-09-18,0.0,tournament_100_376,376,100,100.376
+tournament_100,2014-08-29,2014-09-22,12,classic,胡建萍,谭卓佳,2014-09-18,1.0,tournament_100_377,377,100,100.377
+tournament_100,2014-08-29,2014-09-22,12,classic,李文子,杨慧,2014-09-18,0.5,tournament_100_378,378,100,100.378
+tournament_100,2014-08-29,2014-09-22,12,classic,马朝风,许士波,2014-09-18,0.5,tournament_100_379,379,100,100.379
+tournament_100,2014-08-29,2014-09-22,12,classic,王江基,刘宇福,2014-09-18,1.0,tournament_100_380,380,100,100.380
+tournament_100,2014-08-29,2014-09-22,12,classic,史一姣,金志,2014-09-18,1.0,tournament_100_381,381,100,100.381
+tournament_100,2014-08-29,2014-09-22,12,classic,林源浩,李秀寿,2014-09-18,1.0,tournament_100_382,382,100,100.382
+tournament_100,2014-08-29,2014-09-22,12,classic,徐耀祥,王殿,2014-09-18,0.5,tournament_100_383,383,100,100.383
+tournament_100,2014-08-29,2014-09-22,12,classic,范存妞,刘改川,2014-09-18,0.5,tournament_100_384,384,100,100.384
+tournament_100,2014-08-29,2014-09-22,12,classic,王由航,卢来青,2014-09-18,0.5,tournament_100_385,385,100,100.385
+tournament_100,2014-08-29,2014-09-22,12,classic,王俊,张海航,2014-09-18,0.0,tournament_100_386,386,100,100.386
+tournament_100,2014-08-29,2014-09-22,12,classic,梁良,赵西勇,2014-09-18,1.0,tournament_100_387,387,100,100.387
+tournament_100,2014-08-29,2014-09-22,12,classic,方东,田佳达,2014-09-18,1.0,tournament_100_388,388,100,100.388
+tournament_100,2014-08-29,2014-09-22,12,classic,蔡玉雪,杨承,2014-09-18,1.0,tournament_100_389,389,100,100.389
+tournament_100,2014-08-29,2014-09-22,12,classic,张艺燕,王加娟,2014-09-18,0.0,tournament_100_390,390,100,100.390
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,彭捷慧,2014-09-18,1.0,tournament_100_391,391,100,100.391
+tournament_100,2014-08-29,2014-09-22,12,classic,冯隆美,段振,2014-09-18,1.0,tournament_100_392,392,100,100.392
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,史智,2014-09-18,0.5,tournament_100_393,393,100,100.393
+tournament_100,2014-08-29,2014-09-22,12,classic,董健,谭尧,2014-09-18,0.5,tournament_100_394,394,100,100.394
+tournament_100,2014-08-29,2014-09-22,12,classic,周忠雷,周影吉,2014-09-18,0.5,tournament_100_395,395,100,100.395
+tournament_100,2014-08-29,2014-09-22,12,classic,谢庆麟,邓烈,2014-09-18,0.0,tournament_100_396,396,100,100.396
+tournament_100,2014-08-29,2014-09-22,12,classic,顾加军,孙义敏,2014-09-20,0.0,tournament_100_397,397,100,100.397
+tournament_100,2014-08-29,2014-09-22,12,classic,徐铭,梁梅强,2014-09-20,0.5,tournament_100_398,398,100,100.398
+tournament_100,2014-08-29,2014-09-22,12,classic,金心峰,贾烨广,2014-09-20,0.0,tournament_100_399,399,100,100.399
+tournament_100,2014-08-29,2014-09-22,12,classic,傅建,李舒初,2014-09-20,0.0,tournament_100_400,400,100,100.400
+tournament_100,2014-08-29,2014-09-22,12,classic,李利平,刘碧艳,2014-09-20,1.0,tournament_100_401,401,100,100.401
+tournament_100,2014-08-29,2014-09-22,12,classic,冯三立,王真直,2014-09-20,0.0,tournament_100_402,402,100,100.402
+tournament_100,2014-08-29,2014-09-22,12,classic,王剑妹,阎斯钧,2014-09-20,1.0,tournament_100_403,403,100,100.403
+tournament_100,2014-08-29,2014-09-22,12,classic,赵晋耕,乔宏琪,2014-09-20,1.0,tournament_100_404,404,100,100.404
+tournament_100,2014-08-29,2014-09-22,12,classic,章泽,郑宣珍,2014-09-20,1.0,tournament_100_405,405,100,100.405
+tournament_100,2014-08-29,2014-09-22,12,classic,邹江祥,郭周哲,2014-09-20,0.0,tournament_100_406,406,100,100.406
+tournament_100,2014-08-29,2014-09-22,12,classic,彭国,郝华琳,2014-09-20,0.0,tournament_100_407,407,100,100.407
+tournament_100,2014-08-29,2014-09-22,12,classic,魏兴,孟芳全,2014-09-20,0.0,tournament_100_408,408,100,100.408
+tournament_100,2014-08-29,2014-09-22,12,classic,丁晨彤,陈一,2014-09-20,0.5,tournament_100_409,409,100,100.409
+tournament_100,2014-08-29,2014-09-22,12,classic,陈春,吴雄苍,2014-09-20,0.5,tournament_100_410,410,100,100.410
+tournament_100,2014-08-29,2014-09-22,12,classic,杨慧,冯柏贞,2014-09-20,0.0,tournament_100_411,411,100,100.411
+tournament_100,2014-08-29,2014-09-22,12,classic,何驿艳,胡建萍,2014-09-20,0.5,tournament_100_412,412,100,100.412
+tournament_100,2014-08-29,2014-09-22,12,classic,谭卓佳,王江基,2014-09-20,0.0,tournament_100_413,413,100,100.413
+tournament_100,2014-08-29,2014-09-22,12,classic,王瑶珠,史一姣,2014-09-20,1.0,tournament_100_414,414,100,100.414
+tournament_100,2014-08-29,2014-09-22,12,classic,许士波,林源浩,2014-09-20,0.0,tournament_100_415,415,100,100.415
+tournament_100,2014-08-29,2014-09-22,12,classic,张海航,李文子,2014-09-20,1.0,tournament_100_416,416,100,100.416
+tournament_100,2014-08-29,2014-09-22,12,classic,王殿,马朝风,2014-09-20,0.5,tournament_100_417,417,100,100.417
+tournament_100,2014-08-29,2014-09-22,12,classic,刘宇福,徐耀祥,2014-09-20,1.0,tournament_100_418,418,100,100.418
+tournament_100,2014-08-29,2014-09-22,12,classic,王加娟,范存妞,2014-09-20,0.5,tournament_100_419,419,100,100.419
+tournament_100,2014-08-29,2014-09-22,12,classic,刘改川,王由航,2014-09-20,0.0,tournament_100_420,420,100,100.420
+tournament_100,2014-08-29,2014-09-22,12,classic,卢来青,梁良,2014-09-20,0.5,tournament_100_421,421,100,100.421
+tournament_100,2014-08-29,2014-09-22,12,classic,金志,方东,2014-09-20,1.0,tournament_100_422,422,100,100.422
+tournament_100,2014-08-29,2014-09-22,12,classic,田佳达,蔡玉雪,2014-09-20,0.0,tournament_100_423,423,100,100.423
+tournament_100,2014-08-29,2014-09-22,12,classic,杨承,董健,2014-09-20,1.0,tournament_100_424,424,100,100.424
+tournament_100,2014-08-29,2014-09-22,12,classic,彭捷慧,谢庆麟,2014-09-20,0.0,tournament_100_425,425,100,100.425
+tournament_100,2014-08-29,2014-09-22,12,classic,周影吉,冯隆美,2014-09-20,0.0,tournament_100_426,426,100,100.426
+tournament_100,2014-08-29,2014-09-22,12,classic,郝星,祝艳光,2014-09-20,1.0,tournament_100_427,427,100,100.427
+tournament_100,2014-08-29,2014-09-22,12,classic,赵西勇,李禄娟,2014-09-20,1.0,tournament_100_428,428,100,100.428
+tournament_100,2014-08-29,2014-09-22,12,classic,史智,张艺燕,2014-09-20,0.0,tournament_100_429,429,100,100.429
+tournament_100,2014-08-29,2014-09-22,12,classic,李秀寿,周忠雷,2014-09-20,0.5,tournament_100_430,430,100,100.430
+tournament_100,2014-08-29,2014-09-22,12,classic,段振,谭尧,2014-09-20,0.0,tournament_100_431,431,100,100.431
+tournament_100,2014-08-29,2014-09-22,12,classic,陈宸云,王俊,2014-09-20,0.5,tournament_100_432,432,100,100.432
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Sun, Qingde",2014-09-04,0.0,tournament_101_1,1,101,101.1
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Chen, Jining",2014-09-04,1.0,tournament_101_2,2,101,101.2
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Chen, Xueqiang",2014-09-04,0.0,tournament_101_3,3,101,101.3
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Zou, Chengshuo",2014-09-04,0.5,tournament_101_4,4,101,101.4
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Zhang, Yejun",2014-09-04,1.0,tournament_101_5,5,101,101.5
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Yang, Jian",2014-09-04,0.5,tournament_101_6,6,101,101.6
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Wang, Jian",2014-09-04,1.0,tournament_101_7,7,101,101.7
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hao, Changlong","Han, Wentao",2014-09-04,1.0,tournament_101_8,8,101,101.8
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jin, Junming","Wen, Liling",2014-09-04,0.5,tournament_101_9,9,101,101.9
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Ren, Suqin",2014-09-04,1.0,tournament_101_10,10,101,101.10
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Zhu, Erzhou",2014-09-04,0.0,tournament_101_11,11,101,101.11
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Liang, Qing",2014-09-04,1.0,tournament_101_12,12,101,101.12
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Zhang, Anpeng",2014-09-04,0.5,tournament_101_13,13,101,101.13
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Liu, Xingmei",2014-09-04,0.5,tournament_101_14,14,101,101.14
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Lv, Yiguo",2014-09-04,1.0,tournament_101_15,15,101,101.15
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yuan, Zhenshan","Xu, Jing",2014-09-04,0.0,tournament_101_16,16,101,101.16
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Liu, Liming",2014-09-04,0.5,tournament_101_17,17,101,101.17
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Lu, Jiaoli",2014-09-04,0.5,tournament_101_18,18,101,101.18
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Chen, Yuyu",2014-09-04,0.0,tournament_101_19,19,101,101.19
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Huang, Minxiang",2014-09-04,1.0,tournament_101_20,20,101,101.20
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Li, Xingbo",2014-09-04,0.0,tournament_101_21,21,101,101.21
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Xu, Fuying",2014-09-04,0.5,tournament_101_22,22,101,101.22
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Wang, Jianyao",2014-09-04,0.0,tournament_101_23,23,101,101.23
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Dong, Yingying","Qiu, Xinmu",2014-09-04,0.5,tournament_101_24,24,101,101.24
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Bi, Xiaoyue",2014-09-05,0.5,tournament_101_25,25,101,101.25
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Li, Zhengji",2014-09-05,0.5,tournament_101_26,26,101,101.26
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Jiang, Degang",2014-09-05,0.0,tournament_101_27,27,101,101.27
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Hao, Changlong",2014-09-05,1.0,tournament_101_28,28,101,101.28
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Lu, Yingfu",2014-09-05,1.0,tournament_101_29,29,101,101.29
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Li, Yan",2014-09-05,1.0,tournament_101_30,30,101,101.30
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Wu, Fujun",2014-09-05,1.0,tournament_101_31,31,101,101.31
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Zhou, Menglong",2014-09-05,1.0,tournament_101_32,32,101,101.32
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Huang, Guohua",2014-09-05,0.5,tournament_101_33,33,101,101.33
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Zhang, Xingmin",2014-09-05,0.0,tournament_101_34,34,101,101.34
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Gao, Xiaochen",2014-09-05,1.0,tournament_101_35,35,101,101.35
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Jin, Junming",2014-09-05,1.0,tournament_101_36,36,101,101.36
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Huang, Cunhua",2014-09-05,0.5,tournament_101_37,37,101,101.37
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Zhao, Geng",2014-09-05,0.5,tournament_101_38,38,101,101.38
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Zhou, Xiulu",2014-09-05,0.5,tournament_101_39,39,101,101.39
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Cai, Qi",2014-09-05,0.5,tournament_101_40,40,101,101.40
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Liu, Yunyu",2014-09-05,1.0,tournament_101_41,41,101,101.41
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Dong, Yingying",2014-09-05,1.0,tournament_101_42,42,101,101.42
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Luo, Xingshi",2014-09-05,0.0,tournament_101_43,43,101,101.43
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Han, Wentao","Zou, Feng",2014-09-05,0.0,tournament_101_44,44,101,101.44
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Zhang, Muli",2014-09-05,1.0,tournament_101_45,45,101,101.45
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Yuan, Zhenshan",2014-09-05,0.0,tournament_101_46,46,101,101.46
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Zhou, Xialan",2014-09-05,0.5,tournament_101_47,47,101,101.47
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Minxiang","Hu, Shengyuan",2014-09-05,0.0,tournament_101_48,48,101,101.48
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Xu, Jing",2014-09-06,1.0,tournament_101_49,49,101,101.49
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Chen, Yuyu",2014-09-06,0.0,tournament_101_50,50,101,101.50
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Li, Xingbo",2014-09-06,0.5,tournament_101_51,51,101,101.51
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Guohua","Wang, Jianyao",2014-09-06,0.0,tournament_101_52,52,101,101.52
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Sun, Qingde",2014-09-06,1.0,tournament_101_53,53,101,101.53
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hao, Changlong","Chen, Xueqiang",2014-09-06,0.0,tournament_101_54,54,101,101.54
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Zou, Chengshuo",2014-09-06,0.5,tournament_101_55,55,101,101.55
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Zhang, Anpeng",2014-09-06,1.0,tournament_101_56,56,101,101.56
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Liu, Xingmei",2014-09-06,0.5,tournament_101_57,57,101,101.57
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Zhu, Erzhou",2014-09-06,0.0,tournament_101_58,58,101,101.58
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Yang, Jian",2014-09-06,1.0,tournament_101_59,59,101,101.59
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Liu, Liming",2014-09-06,1.0,tournament_101_60,60,101,101.60
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Lu, Jiaoli",2014-09-06,1.0,tournament_101_61,61,101,101.61
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Xu, Fuying",2014-09-06,0.5,tournament_101_62,62,101,101.62
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Qiu, Xinmu",2014-09-06,0.5,tournament_101_63,63,101,101.63
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Chen, Jining",2014-09-06,1.0,tournament_101_64,64,101,101.64
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yuan, Zhenshan","Zhang, Yejun",2014-09-06,0.0,tournament_101_65,65,101,101.65
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Ren, Suqin",2014-09-06,0.5,tournament_101_66,66,101,101.66
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Wen, Liling",2014-09-06,1.0,tournament_101_67,67,101,101.67
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Lv, Yiguo",2014-09-06,0.5,tournament_101_68,68,101,101.68
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jin, Junming","Wang, Jian",2014-09-06,0.5,tournament_101_69,69,101,101.69
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Han, Wentao",2014-09-06,1.0,tournament_101_70,70,101,101.70
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Liang, Qing",2014-09-06,0.0,tournament_101_71,71,101,101.71
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Huang, Minxiang",2014-09-06,1.0,tournament_101_72,72,101,101.72
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Jiang, Degang",2014-09-07,0.0,tournament_101_73,73,101,101.73
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Zhang, Xingmin",2014-09-07,1.0,tournament_101_74,74,101,101.74
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Huang, Cunhua",2014-09-07,1.0,tournament_101_75,75,101,101.75
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Li, Yan",2014-09-07,0.5,tournament_101_76,76,101,101.76
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Li, Zhengji",2014-09-07,0.5,tournament_101_77,77,101,101.77
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Zhao, Geng",2014-09-07,0.5,tournament_101_78,78,101,101.78
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Zhou, Xiulu",2014-09-07,0.5,tournament_101_79,79,101,101.79
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Zou, Feng",2014-09-07,1.0,tournament_101_80,80,101,101.80
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Hu, Shengyuan",2014-09-07,0.5,tournament_101_81,81,101,101.81
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Huang, Guohua",2014-09-07,1.0,tournament_101_82,82,101,101.82
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Bi, Xiaoyue",2014-09-07,1.0,tournament_101_83,83,101,101.83
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Lu, Yingfu",2014-09-07,1.0,tournament_101_84,84,101,101.84
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Wu, Fujun",2014-09-07,0.0,tournament_101_85,85,101,101.85
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Cai, Qi",2014-09-07,0.5,tournament_101_86,86,101,101.86
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Luo, Xingshi",2014-09-07,0.5,tournament_101_87,87,101,101.87
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Zheng, Yanfeng",2014-09-07,0.0,tournament_101_88,88,101,101.88
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Liu, Yunyu",2014-09-07,0.5,tournament_101_89,89,101,101.89
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Dong, Yingying",2014-09-07,0.5,tournament_101_90,90,101,101.90
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Zhou, Xialan",2014-09-07,0.5,tournament_101_91,91,101,101.91
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Hao, Changlong",2014-09-07,0.5,tournament_101_92,92,101,101.92
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Zhou, Menglong",2014-09-07,0.5,tournament_101_93,93,101,101.93
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Yuan, Zhenshan",2014-09-07,0.5,tournament_101_94,94,101,101.94
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Han, Wentao","Gao, Xiaochen",2014-09-07,0.0,tournament_101_95,95,101,101.95
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Minxiang","Jin, Junming",2014-09-07,1.0,tournament_101_96,96,101,101.96
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Wang, Jianyao",2014-09-08,1.0,tournament_101_97,97,101,101.97
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Li, Xingbo",2014-09-08,0.5,tournament_101_98,98,101,101.98
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Chen, Yuyu",2014-09-08,1.0,tournament_101_99,99,101,101.99
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Chen, Xueqiang",2014-09-08,0.5,tournament_101_100,100,101,101.100
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Zhu, Erzhou",2014-09-08,0.0,tournament_101_101,101,101,101.101
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Xu, Jing",2014-09-08,0.5,tournament_101_102,102,101,101.102
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Zou, Chengshuo",2014-09-08,0.5,tournament_101_103,103,101,101.103
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Liu, Xingmei",2014-09-08,1.0,tournament_101_104,104,101,101.104
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Zhang, Yejun",2014-09-08,0.5,tournament_101_105,105,101,101.105
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Sun, Qingde",2014-09-08,0.5,tournament_101_106,106,101,101.106
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Zhang, Anpeng",2014-09-08,0.0,tournament_101_107,107,101,101.107
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Xu, Fuying",2014-09-08,0.5,tournament_101_108,108,101,101.108
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Yang, Jian",2014-09-08,0.0,tournament_101_109,109,101,101.109
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Ren, Suqin",2014-09-08,0.5,tournament_101_110,110,101,101.110
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Dong, Yingying","Lu, Jiaoli",2014-09-08,0.0,tournament_101_111,111,101,101.111
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Qiu, Xinmu",2014-09-08,1.0,tournament_101_112,112,101,101.112
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Chen, Jining",2014-09-08,1.0,tournament_101_113,113,101,101.113
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Lv, Yiguo",2014-09-08,1.0,tournament_101_114,114,101,101.114
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Guohua","Liang, Qing",2014-09-08,1.0,tournament_101_115,115,101,101.115
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Liu, Liming",2014-09-08,0.5,tournament_101_116,116,101,101.116
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hao, Changlong","Wen, Liling",2014-09-08,0.0,tournament_101_117,117,101,101.117
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Wang, Jian",2014-09-08,0.5,tournament_101_118,118,101,101.118
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jin, Junming","Han, Wentao",2014-09-08,0.0,tournament_101_119,119,101,101.119
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Huang, Minxiang",2014-09-08,0.0,tournament_101_120,120,101,101.120
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Jiang, Degang",2014-09-09,1.0,tournament_101_121,121,101,101.121
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Li, Zhengji",2014-09-09,0.5,tournament_101_122,122,101,101.122
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Zheng, Yanfeng",2014-09-09,1.0,tournament_101_123,123,101,101.123
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Zhang, Xingmin",2014-09-09,1.0,tournament_101_124,124,101,101.124
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Zhao, Geng",2014-09-09,0.5,tournament_101_125,125,101,101.125
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Zhou, Xiulu",2014-09-09,1.0,tournament_101_126,126,101,101.126
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Hu, Shengyuan",2014-09-09,0.5,tournament_101_127,127,101,101.127
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Wu, Fujun",2014-09-09,0.5,tournament_101_128,128,101,101.128
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Zhou, Xialan",2014-09-09,0.5,tournament_101_129,129,101,101.129
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Gao, Xiaochen",2014-09-09,0.0,tournament_101_130,130,101,101.130
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Li, Yan",2014-09-09,0.5,tournament_101_131,131,101,101.131
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Huang, Cunhua",2014-09-09,0.5,tournament_101_132,132,101,101.132
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Luo, Xingshi",2014-09-09,0.5,tournament_101_133,133,101,101.133
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Liu, Yunyu",2014-09-09,1.0,tournament_101_134,134,101,101.134
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Bi, Xiaoyue",2014-09-09,0.5,tournament_101_135,135,101,101.135
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Huang, Guohua",2014-09-09,0.0,tournament_101_136,136,101,101.136
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Minxiang","Yuan, Zhenshan",2014-09-09,0.0,tournament_101_137,137,101,101.137
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Zou, Feng",2014-09-09,1.0,tournament_101_138,138,101,101.138
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Cai, Qi",2014-09-09,0.5,tournament_101_139,139,101,101.139
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Dong, Yingying",2014-09-09,0.5,tournament_101_140,140,101,101.140
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Lu, Yingfu",2014-09-09,1.0,tournament_101_141,141,101,101.141
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Zhang, Muli",2014-09-09,1.0,tournament_101_142,142,101,101.142
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Han, Wentao","Zhou, Menglong",2014-09-09,0.0,tournament_101_143,143,101,101.143
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Jin, Junming",2014-09-09,0.5,tournament_101_144,144,101,101.144
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Chen, Xueqiang",2014-09-10,0.5,tournament_101_145,145,101,101.145
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Li, Xingbo",2014-09-10,0.0,tournament_101_146,146,101,101.146
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Zhu, Erzhou",2014-09-10,0.0,tournament_101_147,147,101,101.147
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Wang, Jianyao",2014-09-10,0.0,tournament_101_148,148,101,101.148
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Zhang, Anpeng",2014-09-10,0.0,tournament_101_149,149,101,101.149
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Chen, Yuyu",2014-09-10,0.5,tournament_101_150,150,101,101.150
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Xu, Jing",2014-09-10,0.5,tournament_101_151,151,101,101.151
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Zou, Chengshuo",2014-09-10,0.5,tournament_101_152,152,101,101.152
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Guohua","Zhang, Yejun",2014-09-10,1.0,tournament_101_153,153,101,101.153
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yuan, Zhenshan","Xu, Fuying",2014-09-10,0.5,tournament_101_154,154,101,101.154
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Yang, Jian",2014-09-10,1.0,tournament_101_155,155,101,101.155
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Sun, Qingde",2014-09-10,0.0,tournament_101_156,156,101,101.156
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Liu, Xingmei",2014-09-10,0.5,tournament_101_157,157,101,101.157
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Ren, Suqin",2014-09-10,1.0,tournament_101_158,158,101,101.158
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Lu, Jiaoli",2014-09-10,1.0,tournament_101_159,159,101,101.159
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Qiu, Xinmu",2014-09-10,0.5,tournament_101_160,160,101,101.160
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Liang, Qing",2014-09-10,0.5,tournament_101_161,161,101,101.161
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Wang, Jian",2014-09-10,1.0,tournament_101_162,162,101,101.162
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Wen, Liling",2014-09-10,0.5,tournament_101_163,163,101,101.163
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Dong, Yingying","Huang, Minxiang",2014-09-10,1.0,tournament_101_164,164,101,101.164
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hao, Changlong","Chen, Jining",2014-09-10,0.5,tournament_101_165,165,101,101.165
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Lv, Yiguo",2014-09-10,1.0,tournament_101_166,166,101,101.166
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Han, Wentao",2014-09-10,0.5,tournament_101_167,167,101,101.167
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Liu, Liming",2014-09-10,0.5,tournament_101_168,168,101,101.168
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Huang, Guohua",2014-09-11,1.0,tournament_101_169,169,101,101.169
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Gao, Xiaochen",2014-09-11,1.0,tournament_101_170,170,101,101.170
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Jiang, Degang",2014-09-11,0.0,tournament_101_171,171,101,101.171
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Zhao, Geng",2014-09-11,1.0,tournament_101_172,172,101,101.172
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Wu, Fujun",2014-09-11,1.0,tournament_101_173,173,101,101.173
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Yuan, Zhenshan",2014-09-11,1.0,tournament_101_174,174,101,101.174
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Li, Zhengji",2014-09-11,0.0,tournament_101_175,175,101,101.175
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Zhou, Xialan",2014-09-11,0.5,tournament_101_176,176,101,101.176
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Zhang, Xingmin",2014-09-11,0.5,tournament_101_177,177,101,101.177
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Zheng, Yanfeng",2014-09-11,0.5,tournament_101_178,178,101,101.178
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Huang, Cunhua",2014-09-11,1.0,tournament_101_179,179,101,101.179
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Luo, Xingshi",2014-09-11,0.5,tournament_101_180,180,101,101.180
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Hu, Shengyuan",2014-09-11,0.0,tournament_101_181,181,101,101.181
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Li, Yan",2014-09-11,0.0,tournament_101_182,182,101,101.182
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Bi, Xiaoyue",2014-09-11,1.0,tournament_101_183,183,101,101.183
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Zhou, Menglong",2014-09-11,0.5,tournament_101_184,184,101,101.184
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Liu, Yunyu",2014-09-11,0.0,tournament_101_185,185,101,101.185
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Dong, Yingying",2014-09-11,0.5,tournament_101_186,186,101,101.186
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Zhou, Xiulu",2014-09-11,0.5,tournament_101_187,187,101,101.187
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Cai, Qi",2014-09-11,1.0,tournament_101_188,188,101,101.188
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Jin, Junming",2014-09-11,1.0,tournament_101_189,189,101,101.189
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Minxiang","Hao, Changlong",2014-09-11,0.5,tournament_101_190,190,101,101.190
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Han, Wentao","Zhang, Muli",2014-09-11,0.5,tournament_101_191,191,101,101.191
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Lu, Yingfu",2014-09-11,1.0,tournament_101_192,192,101,101.192
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Li, Xingbo",2014-09-12,0.0,tournament_101_193,193,101,101.193
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Guohua","Zhu, Erzhou",2014-09-12,0.5,tournament_101_194,194,101,101.194
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Xu, Fuying",2014-09-12,1.0,tournament_101_195,195,101,101.195
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Wang, Jianyao",2014-09-12,0.0,tournament_101_196,196,101,101.196
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Chen, Xueqiang",2014-09-12,0.0,tournament_101_197,197,101,101.197
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Chen, Yuyu",2014-09-12,0.5,tournament_101_198,198,101,101.198
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Zhang, Anpeng",2014-09-12,0.5,tournament_101_199,199,101,101.199
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Xu, Jing",2014-09-12,1.0,tournament_101_200,200,101,101.200
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Sun, Qingde",2014-09-12,0.5,tournament_101_201,201,101,101.201
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Zhang, Yejun",2014-09-12,0.5,tournament_101_202,202,101,101.202
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yuan, Zhenshan","Zou, Chengshuo",2014-09-12,0.5,tournament_101_203,203,101,101.203
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Liang, Qing",2014-09-12,0.5,tournament_101_204,204,101,101.204
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Yang, Jian",2014-09-12,0.5,tournament_101_205,205,101,101.205
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Lu, Jiaoli",2014-09-12,1.0,tournament_101_206,206,101,101.206
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Chen, Jining",2014-09-12,0.5,tournament_101_207,207,101,101.207
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Liu, Xingmei",2014-09-12,0.5,tournament_101_208,208,101,101.208
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Dong, Yingying","Liu, Liming",2014-09-12,0.0,tournament_101_209,209,101,101.209
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Ren, Suqin",2014-09-12,0.5,tournament_101_210,210,101,101.210
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Wang, Jian",2014-09-12,1.0,tournament_101_211,211,101,101.211
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Lv, Yiguo",2014-09-12,0.5,tournament_101_212,212,101,101.212
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jin, Junming","Qiu, Xinmu",2014-09-12,0.5,tournament_101_213,213,101,101.213
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Wen, Liling",2014-09-12,0.5,tournament_101_214,214,101,101.214
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Huang, Minxiang",2014-09-12,0.5,tournament_101_215,215,101,101.215
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Han, Wentao",2014-09-12,1.0,tournament_101_216,216,101,101.216
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Liu, Yunyu",2014-09-13,1.0,tournament_101_217,217,101,101.217
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Zhang, Xingmin",2014-09-13,1.0,tournament_101_218,218,101,101.218
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Jiang, Degang",2014-09-13,0.5,tournament_101_219,219,101,101.219
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Li, Yan",2014-09-13,1.0,tournament_101_220,220,101,101.220
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Huang, Guohua",2014-09-13,1.0,tournament_101_221,221,101,101.221
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Huang, Cunhua",2014-09-13,0.5,tournament_101_222,222,101,101.222
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Zhou, Xialan",2014-09-13,0.5,tournament_101_223,223,101,101.223
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Li, Zhengji",2014-09-13,0.0,tournament_101_224,224,101,101.224
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Luo, Xingshi",2014-09-13,0.5,tournament_101_225,225,101,101.225
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Gao, Xiaochen",2014-09-13,0.0,tournament_101_226,226,101,101.226
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Hu, Shengyuan",2014-09-13,0.5,tournament_101_227,227,101,101.227
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Zheng, Yanfeng",2014-09-13,0.0,tournament_101_228,228,101,101.228
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Zhao, Geng",2014-09-13,0.5,tournament_101_229,229,101,101.229
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Wu, Fujun",2014-09-13,0.5,tournament_101_230,230,101,101.230
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Yuan, Zhenshan",2014-09-13,0.5,tournament_101_231,231,101,101.231
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Zhou, Menglong",2014-09-13,1.0,tournament_101_232,232,101,101.232
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Zou, Feng",2014-09-13,1.0,tournament_101_233,233,101,101.233
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Bi, Xiaoyue",2014-09-13,0.5,tournament_101_234,234,101,101.234
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Zhou, Xiulu",2014-09-13,0.5,tournament_101_235,235,101,101.235
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Hao, Changlong",2014-09-13,1.0,tournament_101_236,236,101,101.236
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Han, Wentao","Dong, Yingying",2014-09-13,0.5,tournament_101_237,237,101,101.237
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Zhang, Muli",2014-09-13,0.5,tournament_101_238,238,101,101.238
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Minxiang","Lu, Yingfu",2014-09-13,0.5,tournament_101_239,239,101,101.239
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Cai, Qi",2014-09-13,1.0,tournament_101_240,240,101,101.240
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Luo, Xingshi","Li, Xingbo",2014-09-14,0.0,tournament_101_241,241,101,101.241
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Cunhua","Zhu, Erzhou",2014-09-14,0.0,tournament_101_242,242,101,101.242
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Gao, Xiaochen","Wang, Jianyao",2014-09-14,0.0,tournament_101_243,243,101,101.243
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jiang, Degang","Zhang, Yejun",2014-09-14,1.0,tournament_101_244,244,101,101.244
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zheng, Yanfeng","Chen, Xueqiang",2014-09-14,0.0,tournament_101_245,245,101,101.245
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Yan","Chen, Yuyu",2014-09-14,0.5,tournament_101_246,246,101,101.246
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Zhengji","Sun, Qingde",2014-09-14,0.5,tournament_101_247,247,101,101.247
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Huang, Guohua","Zhang, Anpeng",2014-09-14,0.5,tournament_101_248,248,101,101.248
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Xingmin","Liu, Xingmei",2014-09-14,0.5,tournament_101_249,249,101,101.249
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Yunyu","Liang, Qing",2014-09-14,1.0,tournament_101_250,250,101,101.250
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xialan","Liu, Liming",2014-09-14,0.5,tournament_101_251,251,101,101.251
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hu, Shengyuan","Chen, Jining",2014-09-14,0.0,tournament_101_252,252,101,101.252
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhao, Geng","Xu, Jing",2014-09-14,0.5,tournament_101_253,253,101,101.253
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wu, Fujun","Xu, Fuying",2014-09-14,1.0,tournament_101_254,254,101,101.254
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yuan, Zhenshan","Yang, Jian",2014-09-14,1.0,tournament_101_255,255,101,101.255
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Bi, Xiaoyue","Zou, Chengshuo",2014-09-14,1.0,tournament_101_256,256,101,101.256
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Xiulu","Lv, Yiguo",2014-09-14,1.0,tournament_101_257,257,101,101.257
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhou, Menglong","Ren, Suqin",2014-09-14,0.5,tournament_101_258,258,101,101.258
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Jin, Junming","Lu, Jiaoli",2014-09-14,0.0,tournament_101_259,259,101,101.259
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Han, Wentao",2014-09-14,0.5,tournament_101_260,260,101,101.260
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Dong, Yingying","Wen, Liling",2014-09-14,0.5,tournament_101_261,261,101,101.261
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Feng","Huang, Minxiang",2014-09-14,0.5,tournament_101_262,262,101,101.262
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Hao, Changlong","Qiu, Xinmu",2014-09-14,0.0,tournament_101_263,263,101,101.263
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Yingfu","Wang, Jian",2014-09-14,0.0,tournament_101_264,264,101,101.264
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Li, Xingbo","Wu, Fujun",2014-09-15,0.5,tournament_101_265,265,101,101.265
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhu, Erzhou","Liu, Yunyu",2014-09-15,1.0,tournament_101_266,266,101,101.266
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jianyao","Yuan, Zhenshan",2014-09-15,1.0,tournament_101_267,267,101,101.267
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Jining","Jiang, Degang",2014-09-15,0.0,tournament_101_268,268,101,101.268
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Xueqiang","Bi, Xiaoyue",2014-09-15,1.0,tournament_101_269,269,101,101.269
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Chen, Yuyu","Gao, Xiaochen",2014-09-15,0.0,tournament_101_270,270,101,101.270
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Xingmei","Li, Zhengji",2014-09-15,0.0,tournament_101_271,271,101,101.271
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Anpeng","Zhou, Xiulu",2014-09-15,0.5,tournament_101_272,272,101,101.272
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Sun, Qingde","Li, Yan",2014-09-15,0.5,tournament_101_273,273,101,101.273
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Yejun","Zheng, Yanfeng",2014-09-15,0.0,tournament_101_274,274,101,101.274
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liang, Qing","Huang, Cunhua",2014-09-15,0.0,tournament_101_275,275,101,101.275
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Liu, Liming","Huang, Guohua",2014-09-15,0.0,tournament_101_276,276,101,101.276
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lu, Jiaoli","Zhang, Xingmin",2014-09-15,0.5,tournament_101_277,277,101,101.277
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wang, Jian","Zhou, Xialan",2014-09-15,0.5,tournament_101_278,278,101,101.278
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Qiu, Xinmu","Zhao, Geng",2014-09-15,0.5,tournament_101_279,279,101,101.279
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Jing","Luo, Xingshi",2014-09-15,0.0,tournament_101_280,280,101,101.280
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Yang, Jian","Dong, Yingying",2014-09-15,1.0,tournament_101_281,281,101,101.281
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Wen, Liling","Zou, Feng",2014-09-15,1.0,tournament_101_282,282,101,101.282
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zhang, Muli","Zhou, Menglong",2014-09-15,0.0,tournament_101_283,283,101,101.283
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Ren, Suqin","Hu, Shengyuan",2014-09-15,0.5,tournament_101_284,284,101,101.284
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Cai, Qi","Hao, Changlong",2014-09-15,1.0,tournament_101_285,285,101,101.285
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Lv, Yiguo","Lu, Yingfu",2014-09-15,1.0,tournament_101_286,286,101,101.286
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Xu, Fuying","Han, Wentao",2014-09-15,0.5,tournament_101_287,287,101,101.287
+tournament_101,2014-09-04,2014-09-16,12,rapid,"Zou, Chengshuo","Jin, Junming",2014-09-15,1.0,tournament_101_288,288,101,101.288
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Jia","Bi, Luhui",2014-09-04,0.0,tournament_102_1,1,102,102.1
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Si","Xie, Weigong",2014-09-04,0.5,tournament_102_2,2,102,102.2
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Chunqian","Wei, Sifeng",2014-09-04,0.5,tournament_102_3,3,102,102.3
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Rongshun","Li, Sujin",2014-09-04,0.5,tournament_102_4,4,102,102.4
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Guobiao","Wang, Xuanyan",2014-09-04,0.0,tournament_102_5,5,102,102.5
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Yuhong","Qin, Huifei",2014-09-04,0.5,tournament_102_6,6,102,102.6
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Sen","Chen, Yuke",2014-09-04,0.5,tournament_102_7,7,102,102.7
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Youqiang","Wu, Dongping",2014-09-04,0.5,tournament_102_8,8,102,102.8
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Qingzhen","Zhai, Qungang",2014-09-04,0.5,tournament_102_9,9,102,102.9
+tournament_102,2014-09-04,2014-09-04,8,classic,"Hong, Xueyou","Xu, Taishan",2014-09-04,0.5,tournament_102_10,10,102,102.10
+tournament_102,2014-09-04,2014-09-04,8,classic,"Song, Manshen","Wang, Cai",2014-09-04,0.5,tournament_102_11,11,102,102.11
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhao, Suirong","Zhang, Zhengnan",2014-09-04,1.0,tournament_102_12,12,102,102.12
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Huiqian","Ma, Jinwen",2014-09-04,0.5,tournament_102_13,13,102,102.13
+tournament_102,2014-09-04,2014-09-04,8,classic,"Liu, Jingqiang","Li, Minkang",2014-09-04,1.0,tournament_102_14,14,102,102.14
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Zhentian","Zhou, Ziqiang",2014-09-04,0.0,tournament_102_15,15,102,102.15
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Wenyun","Zhang, Xiucong",2014-09-04,0.0,tournament_102_16,16,102,102.16
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Yufa","Cao, Yiping",2014-09-04,0.5,tournament_102_17,17,102,102.17
+tournament_102,2014-09-04,2014-09-04,8,classic,"Huang, Feirui","Xing, Xin",2014-09-04,0.5,tournament_102_18,18,102,102.18
+tournament_102,2014-09-04,2014-09-04,8,classic,"Yang, Yue","Lv, Yinwen",2014-09-04,1.0,tournament_102_19,19,102,102.19
+tournament_102,2014-09-04,2014-09-04,8,classic,"Bi, Luhui","Zhao, Suirong",2014-09-04,0.0,tournament_102_20,20,102,102.20
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Xuanyan","Liu, Jingqiang",2014-09-04,0.5,tournament_102_21,21,102,102.21
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhou, Ziqiang","Yang, Yue",2014-09-04,0.5,tournament_102_22,22,102,102.22
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Xiucong","Chen, Si",2014-09-04,0.5,tournament_102_23,23,102,102.23
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xie, Weigong","Chen, Chunqian",2014-09-04,1.0,tournament_102_24,24,102,102.24
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Sifeng","Chen, Rongshun",2014-09-04,1.0,tournament_102_25,25,102,102.25
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Sujin","Wang, Yuhong",2014-09-04,0.5,tournament_102_26,26,102,102.26
+tournament_102,2014-09-04,2014-09-04,8,classic,"Qin, Huifei","Chen, Sen",2014-09-04,0.0,tournament_102_27,27,102,102.27
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Yuke","Zhang, Youqiang",2014-09-04,0.5,tournament_102_28,28,102,102.28
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wu, Dongping","Zhu, Qingzhen",2014-09-04,0.5,tournament_102_29,29,102,102.29
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhai, Qungang","Hong, Xueyou",2014-09-04,0.5,tournament_102_30,30,102,102.30
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xu, Taishan","Song, Manshen",2014-09-04,0.5,tournament_102_31,31,102,102.31
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Cai","Lv, Huiqian",2014-09-04,0.5,tournament_102_32,32,102,102.32
+tournament_102,2014-09-04,2014-09-04,8,classic,"Ma, Jinwen","Shi, Yufa",2014-09-04,1.0,tournament_102_33,33,102,102.33
+tournament_102,2014-09-04,2014-09-04,8,classic,"Cao, Yiping","Huang, Feirui",2014-09-04,0.0,tournament_102_34,34,102,102.34
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xing, Xin","Zhang, Jia",2014-09-04,0.5,tournament_102_35,35,102,102.35
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Zhengnan","Zhu, Guobiao",2014-09-04,0.0,tournament_102_36,36,102,102.36
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Minkang","Wei, Zhentian",2014-09-04,0.5,tournament_102_37,37,102,102.37
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Yinwen","Shi, Wenyun",2014-09-04,0.5,tournament_102_38,38,102,102.38
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhao, Suirong","Wang, Xuanyan",2014-09-04,1.0,tournament_102_39,39,102,102.39
+tournament_102,2014-09-04,2014-09-04,8,classic,"Liu, Jingqiang","Zhou, Ziqiang",2014-09-04,0.5,tournament_102_40,40,102,102.40
+tournament_102,2014-09-04,2014-09-04,8,classic,"Yang, Yue","Zhang, Xiucong",2014-09-04,0.5,tournament_102_41,41,102,102.41
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Sen","Xie, Weigong",2014-09-04,1.0,tournament_102_42,42,102,102.42
+tournament_102,2014-09-04,2014-09-04,8,classic,"Huang, Feirui","Wei, Sifeng",2014-09-04,0.5,tournament_102_43,43,102,102.43
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Si","Ma, Jinwen",2014-09-04,0.0,tournament_102_44,44,102,102.44
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Yuhong","Bi, Luhui",2014-09-04,1.0,tournament_102_45,45,102,102.45
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Youqiang","Li, Sujin",2014-09-04,0.5,tournament_102_46,46,102,102.46
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Qingzhen","Chen, Yuke",2014-09-04,1.0,tournament_102_47,47,102,102.47
+tournament_102,2014-09-04,2014-09-04,8,classic,"Hong, Xueyou","Wu, Dongping",2014-09-04,1.0,tournament_102_48,48,102,102.48
+tournament_102,2014-09-04,2014-09-04,8,classic,"Song, Manshen","Zhai, Qungang",2014-09-04,0.5,tournament_102_49,49,102,102.49
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Huiqian","Xu, Taishan",2014-09-04,1.0,tournament_102_50,50,102,102.50
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Guobiao","Wang, Cai",2014-09-04,1.0,tournament_102_51,51,102,102.51
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Chunqian","Xing, Xin",2014-09-04,0.0,tournament_102_52,52,102,102.52
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Rongshun","Qin, Huifei",2014-09-04,0.5,tournament_102_53,53,102,102.53
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Yufa","Li, Minkang",2014-09-04,1.0,tournament_102_54,54,102,102.54
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Jia","Cao, Yiping",2014-09-04,0.0,tournament_102_55,55,102,102.55
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Zhentian","Lv, Yinwen",2014-09-04,1.0,tournament_102_56,56,102,102.56
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Wenyun","Zhang, Zhengnan",2014-09-04,0.5,tournament_102_57,57,102,102.57
+tournament_102,2014-09-04,2014-09-04,8,classic,"Ma, Jinwen","Zhao, Suirong",2014-09-04,1.0,tournament_102_58,58,102,102.58
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhou, Ziqiang","Chen, Sen",2014-09-04,0.0,tournament_102_59,59,102,102.59
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Xiucong","Liu, Jingqiang",2014-09-04,0.5,tournament_102_60,60,102,102.60
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Sifeng","Yang, Yue",2014-09-04,0.5,tournament_102_61,61,102,102.61
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Xuanyan","Huang, Feirui",2014-09-04,0.5,tournament_102_62,62,102,102.62
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xing, Xin","Wang, Yuhong",2014-09-04,0.5,tournament_102_63,63,102,102.63
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xie, Weigong","Zhu, Qingzhen",2014-09-04,0.5,tournament_102_64,64,102,102.64
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Sujin","Hong, Xueyou",2014-09-04,1.0,tournament_102_65,65,102,102.65
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhai, Qungang","Lv, Huiqian",2014-09-04,0.5,tournament_102_66,66,102,102.66
+tournament_102,2014-09-04,2014-09-04,8,classic,"Cao, Yiping","Zhu, Guobiao",2014-09-04,0.5,tournament_102_67,67,102,102.67
+tournament_102,2014-09-04,2014-09-04,8,classic,"Bi, Luhui","Zhang, Youqiang",2014-09-04,0.5,tournament_102_68,68,102,102.68
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Yuke","Song, Manshen",2014-09-04,0.0,tournament_102_69,69,102,102.69
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wu, Dongping","Shi, Yufa",2014-09-04,0.5,tournament_102_70,70,102,102.70
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xu, Taishan","Wei, Zhentian",2014-09-04,0.5,tournament_102_71,71,102,102.71
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Cai","Chen, Si",2014-09-04,1.0,tournament_102_72,72,102,102.72
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Minkang","Chen, Rongshun",2014-09-04,0.0,tournament_102_73,73,102,102.73
+tournament_102,2014-09-04,2014-09-04,8,classic,"Qin, Huifei","Shi, Wenyun",2014-09-04,1.0,tournament_102_74,74,102,102.74
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Yinwen","Zhang, Jia",2014-09-04,0.5,tournament_102_75,75,102,102.75
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Zhengnan","Chen, Chunqian",2014-09-04,0.5,tournament_102_76,76,102,102.76
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Sen","Ma, Jinwen",2014-09-04,0.0,tournament_102_77,77,102,102.77
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhao, Suirong","Zhang, Xiucong",2014-09-04,0.0,tournament_102_78,78,102,102.78
+tournament_102,2014-09-04,2014-09-04,8,classic,"Liu, Jingqiang","Wei, Sifeng",2014-09-04,1.0,tournament_102_79,79,102,102.79
+tournament_102,2014-09-04,2014-09-04,8,classic,"Yang, Yue","Xing, Xin",2014-09-04,0.0,tournament_102_80,80,102,102.80
+tournament_102,2014-09-04,2014-09-04,8,classic,"Huang, Feirui","Li, Sujin",2014-09-04,1.0,tournament_102_81,81,102,102.81
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Yuhong","Zhou, Ziqiang",2014-09-04,0.0,tournament_102_82,82,102,102.82
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Qingzhen","Wang, Xuanyan",2014-09-04,0.5,tournament_102_83,83,102,102.83
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Huiqian","Xie, Weigong",2014-09-04,0.5,tournament_102_84,84,102,102.84
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Guobiao","Zhai, Qungang",2014-09-04,0.5,tournament_102_85,85,102,102.85
+tournament_102,2014-09-04,2014-09-04,8,classic,"Song, Manshen","Cao, Yiping",2014-09-04,1.0,tournament_102_86,86,102,102.86
+tournament_102,2014-09-04,2014-09-04,8,classic,"Hong, Xueyou","Wang, Cai",2014-09-04,0.5,tournament_102_87,87,102,102.87
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Youqiang","Qin, Huifei",2014-09-04,1.0,tournament_102_88,88,102,102.88
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Yufa","Bi, Luhui",2014-09-04,0.0,tournament_102_89,89,102,102.89
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Zhentian","Wu, Dongping",2014-09-04,0.5,tournament_102_90,90,102,102.90
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Rongshun","Xu, Taishan",2014-09-04,0.5,tournament_102_91,91,102,102.91
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Si","Chen, Yuke",2014-09-04,1.0,tournament_102_92,92,102,102.92
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Wenyun","Li, Minkang",2014-09-04,0.5,tournament_102_93,93,102,102.93
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Jia","Zhang, Zhengnan",2014-09-04,0.5,tournament_102_94,94,102,102.94
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Chunqian","Lv, Yinwen",2014-09-04,0.5,tournament_102_95,95,102,102.95
+tournament_102,2014-09-04,2014-09-04,8,classic,"Ma, Jinwen","Liu, Jingqiang",2014-09-04,0.5,tournament_102_96,96,102,102.96
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Xiucong","Chen, Sen",2014-09-04,1.0,tournament_102_97,97,102,102.97
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhou, Ziqiang","Huang, Feirui",2014-09-04,0.5,tournament_102_98,98,102,102.98
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xing, Xin","Song, Manshen",2014-09-04,0.5,tournament_102_99,99,102,102.99
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Sifeng","Zhao, Suirong",2014-09-04,0.0,tournament_102_100,100,102,102.100
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Sujin","Zhu, Qingzhen",2014-09-04,0.5,tournament_102_101,101,102,102.101
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Xuanyan","Lv, Huiqian",2014-09-04,0.5,tournament_102_102,102,102,102.102
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xie, Weigong","Zhu, Guobiao",2014-09-04,0.5,tournament_102_103,103,102,102.103
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhai, Qungang","Zhang, Youqiang",2014-09-04,0.5,tournament_102_104,104,102,102.104
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Cai","Yang, Yue",2014-09-04,0.5,tournament_102_105,105,102,102.105
+tournament_102,2014-09-04,2014-09-04,8,classic,"Cao, Yiping","Wang, Yuhong",2014-09-04,0.0,tournament_102_106,106,102,102.106
+tournament_102,2014-09-04,2014-09-04,8,classic,"Bi, Luhui","Hong, Xueyou",2014-09-04,1.0,tournament_102_107,107,102,102.107
+tournament_102,2014-09-04,2014-09-04,8,classic,"Qin, Huifei","Wei, Zhentian",2014-09-04,0.5,tournament_102_108,108,102,102.108
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wu, Dongping","Chen, Rongshun",2014-09-04,0.0,tournament_102_109,109,102,102.109
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xu, Taishan","Chen, Chunqian",2014-09-04,1.0,tournament_102_110,110,102,102.110
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Yuke","Shi, Yufa",2014-09-04,0.5,tournament_102_111,111,102,102.111
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Si","Shi, Wenyun",2014-09-04,0.0,tournament_102_112,112,102,102.112
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Zhengnan","Lv, Yinwen",2014-09-04,0.5,tournament_102_113,113,102,102.113
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Minkang","Zhang, Jia",2014-09-04,1.0,tournament_102_114,114,102,102.114
+tournament_102,2014-09-04,2014-09-04,8,classic,"Huang, Feirui","Ma, Jinwen",2014-09-04,0.5,tournament_102_115,115,102,102.115
+tournament_102,2014-09-04,2014-09-04,8,classic,"Song, Manshen","Zhang, Xiucong",2014-09-04,0.5,tournament_102_116,116,102,102.116
+tournament_102,2014-09-04,2014-09-04,8,classic,"Liu, Jingqiang","Xing, Xin",2014-09-04,1.0,tournament_102_117,117,102,102.117
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhao, Suirong","Zhou, Ziqiang",2014-09-04,0.5,tournament_102_118,118,102,102.118
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Sen","Bi, Luhui",2014-09-04,1.0,tournament_102_119,119,102,102.119
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Qingzhen","Wang, Cai",2014-09-04,0.0,tournament_102_120,120,102,102.120
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Huiqian","Li, Sujin",2014-09-04,1.0,tournament_102_121,121,102,102.121
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhu, Guobiao","Xu, Taishan",2014-09-04,1.0,tournament_102_122,122,102,102.122
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Youqiang","Wang, Xuanyan",2014-09-04,1.0,tournament_102_123,123,102,102.123
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Yuhong","Xie, Weigong",2014-09-04,0.5,tournament_102_124,124,102,102.124
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Rongshun","Zhai, Qungang",2014-09-04,1.0,tournament_102_125,125,102,102.125
+tournament_102,2014-09-04,2014-09-04,8,classic,"Yang, Yue","Qin, Huifei",2014-09-04,1.0,tournament_102_126,126,102,102.126
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Zhentian","Wei, Sifeng",2014-09-04,1.0,tournament_102_127,127,102,102.127
+tournament_102,2014-09-04,2014-09-04,8,classic,"Hong, Xueyou","Cao, Yiping",2014-09-04,0.5,tournament_102_128,128,102,102.128
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Yufa","Lv, Yinwen",2014-09-04,0.5,tournament_102_129,129,102,102.129
+tournament_102,2014-09-04,2014-09-04,8,classic,"Shi, Wenyun","Wu, Dongping",2014-09-04,0.5,tournament_102_130,130,102,102.130
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Si","Zhang, Zhengnan",2014-09-04,1.0,tournament_102_131,131,102,102.131
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Chunqian","Li, Minkang",2014-09-04,1.0,tournament_102_132,132,102,102.132
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Jia","Chen, Yuke",2014-09-04,1.0,tournament_102_133,133,102,102.133
+tournament_102,2014-09-04,2014-09-04,8,classic,"Ma, Jinwen","Song, Manshen",2014-09-04,0.5,tournament_102_134,134,102,102.134
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Xiucong","Huang, Feirui",2014-09-04,1.0,tournament_102_135,135,102,102.135
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Cai","Liu, Jingqiang",2014-09-04,0.0,tournament_102_136,136,102,102.136
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xing, Xin","Zhao, Suirong",2014-09-04,0.5,tournament_102_137,137,102,102.137
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Sujin","Chen, Sen",2014-09-04,1.0,tournament_102_138,138,102,102.138
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhou, Ziqiang","Lv, Huiqian",2014-09-04,1.0,tournament_102_139,139,102,102.139
+tournament_102,2014-09-04,2014-09-04,8,classic,"Bi, Luhui","Zhu, Guobiao",2014-09-04,0.0,tournament_102_140,140,102,102.140
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xie, Weigong","Zhang, Youqiang",2014-09-04,0.0,tournament_102_141,141,102,102.141
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wang, Xuanyan","Chen, Rongshun",2014-09-04,0.5,tournament_102_142,142,102,102.142
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhai, Qungang","Wang, Yuhong",2014-09-04,0.5,tournament_102_143,143,102,102.143
+tournament_102,2014-09-04,2014-09-04,8,classic,"Xu, Taishan","Yang, Yue",2014-09-04,0.0,tournament_102_144,144,102,102.144
+tournament_102,2014-09-04,2014-09-04,8,classic,"Cao, Yiping","Wei, Zhentian",2014-09-04,0.5,tournament_102_145,145,102,102.145
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wei, Sifeng","Zhu, Qingzhen",2014-09-04,0.5,tournament_102_146,146,102,102.146
+tournament_102,2014-09-04,2014-09-04,8,classic,"Chen, Yuke","Shi, Wenyun",2014-09-04,0.5,tournament_102_147,147,102,102.147
+tournament_102,2014-09-04,2014-09-04,8,classic,"Li, Minkang","Hong, Xueyou",2014-09-04,0.0,tournament_102_148,148,102,102.148
+tournament_102,2014-09-04,2014-09-04,8,classic,"Zhang, Zhengnan","Shi, Yufa",2014-09-04,0.5,tournament_102_149,149,102,102.149
+tournament_102,2014-09-04,2014-09-04,8,classic,"Wu, Dongping","Zhang, Jia",2014-09-04,0.5,tournament_102_150,150,102,102.150
+tournament_102,2014-09-04,2014-09-04,8,classic,"Qin, Huifei","Chen, Chunqian",2014-09-04,1.0,tournament_102_151,151,102,102.151
+tournament_102,2014-09-04,2014-09-04,8,classic,"Lv, Yinwen","Chen, Si",2014-09-04,1.0,tournament_102_152,152,102,102.152
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,孙胜阳,2014-09-08,0.0,tournament_103_1,1,103,103.1
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,杨燕波,2014-09-08,0.5,tournament_103_2,2,103,103.2
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,胡建静,2014-09-08,1.0,tournament_103_3,3,103,103.3
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,刘青聪,2014-09-08,0.5,tournament_103_4,4,103,103.4
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,王宣雁,2014-09-08,1.0,tournament_103_5,5,103,103.5
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,刘敬强,2014-09-08,0.5,tournament_103_6,6,103,103.6
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,张雅娟,2014-09-08,0.5,tournament_103_7,7,103,103.7
+tournament_103,2014-09-08,2014-09-08,12,classic,张正男,秦常明,2014-09-08,0.5,tournament_103_8,8,103,103.8
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,秦志,2014-09-08,0.0,tournament_103_9,9,103,103.9
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,杨灵,2014-09-08,0.5,tournament_103_10,10,103,103.10
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,倪招林,2014-09-08,0.5,tournament_103_11,11,103,103.11
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,王吟彬,2014-09-08,0.0,tournament_103_12,12,103,103.12
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,曹灵缨,2014-09-08,1.0,tournament_103_13,13,103,103.13
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,陈森,2014-09-08,1.0,tournament_103_14,14,103,103.14
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,范元,2014-09-08,0.0,tournament_103_15,15,103,103.15
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,卫明,2014-09-08,0.0,tournament_103_16,16,103,103.16
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,刘延兵,2014-09-08,1.0,tournament_103_17,17,103,103.17
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,汪卫胤,2014-09-08,0.0,tournament_103_18,18,103,103.18
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,秦守云,2014-09-08,1.0,tournament_103_19,19,103,103.19
+tournament_103,2014-09-08,2014-09-08,12,classic,李海,陈芝,2014-09-08,0.5,tournament_103_20,20,103,103.20
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,刘爱桂,2014-09-08,0.5,tournament_103_21,21,103,103.21
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,程浩婷,2014-09-08,1.0,tournament_103_22,22,103,103.22
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,黄菲芮,2014-09-08,0.5,tournament_103_23,23,103,103.23
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,张跃,2014-09-08,1.0,tournament_103_24,24,103,103.24
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,谭亚,2014-09-08,0.5,tournament_103_25,25,103,103.25
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,张秀聪,2014-09-08,0.5,tournament_103_26,26,103,103.26
+tournament_103,2014-09-08,2014-09-08,12,classic,杨俊瑞,梁金州,2014-09-08,0.0,tournament_103_27,27,103,103.27
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,程墨美,2014-09-08,0.5,tournament_103_28,28,103,103.28
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,秦慧菲,2014-09-08,1.0,tournament_103_29,29,103,103.29
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,谢亮良,2014-09-08,1.0,tournament_103_30,30,103,103.30
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,沈民福,2014-09-08,0.5,tournament_103_31,31,103,103.31
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,徐晨良,2014-09-08,1.0,tournament_103_32,32,103,103.32
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,黄慧,2014-09-08,0.0,tournament_103_33,33,103,103.33
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,冯燕家,2014-09-08,1.0,tournament_103_34,34,103,103.34
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,樊建丽,2014-09-08,0.5,tournament_103_35,35,103,103.35
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,黄梦莉,2014-09-08,0.5,tournament_103_36,36,103,103.36
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,王积芝,2014-09-08,0.0,tournament_103_37,37,103,103.37
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,江波,2014-09-08,0.0,tournament_103_38,38,103,103.38
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,李苏瑾,2014-09-08,0.5,tournament_103_39,39,103,103.39
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,张正男,2014-09-08,1.0,tournament_103_40,40,103,103.40
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,林康俊,2014-09-08,1.0,tournament_103_41,41,103,103.41
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,宋萌妹,2014-09-08,0.0,tournament_103_42,42,103,103.42
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,李海,2014-09-08,1.0,tournament_103_43,43,103,103.43
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,魏凯,2014-09-08,0.5,tournament_103_44,44,103,103.44
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,宋曼燊,2014-09-08,1.0,tournament_103_45,45,103,103.45
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,王小生,2014-09-08,0.5,tournament_103_46,46,103,103.46
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,邢琦萍,2014-09-08,0.5,tournament_103_47,47,103,103.47
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,沈健琴,2014-09-08,0.0,tournament_103_48,48,103,103.48
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,邵红从,2014-09-08,0.5,tournament_103_49,49,103,103.49
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,叶霸盛,2014-09-08,1.0,tournament_103_50,50,103,103.50
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,陈荣顺,2014-09-08,1.0,tournament_103_51,51,103,103.51
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,周紫强,2014-09-08,0.0,tournament_103_52,52,103,103.52
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,张伟,2014-09-08,0.5,tournament_103_53,53,103,103.53
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,杨俊瑞,2014-09-08,0.5,tournament_103_54,54,103,103.54
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,秦志,2014-09-08,0.5,tournament_103_55,55,103,103.55
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,王吟彬,2014-09-08,0.5,tournament_103_56,56,103,103.56
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,卫明,2014-09-08,1.0,tournament_103_57,57,103,103.57
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,梁金州,2014-09-08,0.0,tournament_103_58,58,103,103.58
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,孙胜阳,2014-09-08,1.0,tournament_103_59,59,103,103.59
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,范元,2014-09-08,0.0,tournament_103_60,60,103,103.60
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,杨灵,2014-09-08,0.0,tournament_103_61,61,103,103.61
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,倪招林,2014-09-08,0.5,tournament_103_62,62,103,103.62
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,刘爱桂,2014-09-08,0.0,tournament_103_63,63,103,103.63
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,谭亚,2014-09-08,1.0,tournament_103_64,64,103,103.64
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,汪卫胤,2014-09-08,0.0,tournament_103_65,65,103,103.65
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,秦常明,2014-09-08,1.0,tournament_103_66,66,103,103.66
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,杨燕波,2014-09-08,0.5,tournament_103_67,67,103,103.67
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,刘青聪,2014-09-08,0.0,tournament_103_68,68,103,103.68
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,黄菲芮,2014-09-08,0.5,tournament_103_69,69,103,103.69
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,陈森,2014-09-08,0.0,tournament_103_70,70,103,103.70
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,张秀聪,2014-09-08,1.0,tournament_103_71,71,103,103.71
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,刘延兵,2014-09-08,1.0,tournament_103_72,72,103,103.72
+tournament_103,2014-09-08,2014-09-08,12,classic,张正男,刘敬强,2014-09-08,0.0,tournament_103_73,73,103,103.73
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,张雅娟,2014-09-08,0.5,tournament_103_74,74,103,103.74
+tournament_103,2014-09-08,2014-09-08,12,classic,李海,胡建静,2014-09-08,1.0,tournament_103_75,75,103,103.75
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,陈芝,2014-09-08,0.5,tournament_103_76,76,103,103.76
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,程浩婷,2014-09-08,0.5,tournament_103_77,77,103,103.77
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,曹灵缨,2014-09-08,0.5,tournament_103_78,78,103,103.78
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,张跃,2014-09-08,1.0,tournament_103_79,79,103,103.79
+tournament_103,2014-09-08,2014-09-08,12,classic,杨俊瑞,王宣雁,2014-09-08,0.0,tournament_103_80,80,103,103.80
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,秦守云,2014-09-08,0.5,tournament_103_81,81,103,103.81
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,黄慧,2014-09-08,0.5,tournament_103_82,82,103,103.82
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,沈民福,2014-09-08,1.0,tournament_103_83,83,103,103.83
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,王积芝,2014-09-08,0.5,tournament_103_84,84,103,103.84
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,程墨美,2014-09-08,1.0,tournament_103_85,85,103,103.85
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,徐晨良,2014-09-08,1.0,tournament_103_86,86,103,103.86
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,黄梦莉,2014-09-08,1.0,tournament_103_87,87,103,103.87
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,沈健琴,2014-09-08,1.0,tournament_103_88,88,103,103.88
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,周紫强,2014-09-08,1.0,tournament_103_89,89,103,103.89
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,樊建丽,2014-09-08,1.0,tournament_103_90,90,103,103.90
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,江波,2014-09-08,0.5,tournament_103_91,91,103,103.91
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,宋萌妹,2014-09-08,0.5,tournament_103_92,92,103,103.92
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,秦慧菲,2014-09-08,1.0,tournament_103_93,93,103,103.93
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,李苏瑾,2014-09-08,1.0,tournament_103_94,94,103,103.94
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,王小生,2014-09-08,0.5,tournament_103_95,95,103,103.95
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,李海,2014-09-08,0.5,tournament_103_96,96,103,103.96
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,谢亮良,2014-09-08,0.5,tournament_103_97,97,103,103.97
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,冯燕家,2014-09-08,0.0,tournament_103_98,98,103,103.98
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,魏凯,2014-09-08,0.0,tournament_103_99,99,103,103.99
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,邢琦萍,2014-09-08,0.0,tournament_103_100,100,103,103.100
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,宋曼燊,2014-09-08,0.5,tournament_103_101,101,103,103.101
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,林康俊,2014-09-08,0.5,tournament_103_102,102,103,103.102
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,邵红从,2014-09-08,0.5,tournament_103_103,103,103,103.103
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,叶霸盛,2014-09-08,0.5,tournament_103_104,104,103,103.104
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,张伟,2014-09-08,0.5,tournament_103_105,105,103,103.105
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,张正男,2014-09-08,1.0,tournament_103_106,106,103,103.106
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,陈荣顺,2014-09-08,0.5,tournament_103_107,107,103,103.107
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,杨俊瑞,2014-09-08,1.0,tournament_103_108,108,103,103.108
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,梁金州,2014-09-08,0.0,tournament_103_109,109,103,103.109
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,秦志,2014-09-08,0.0,tournament_103_110,110,103,103.110
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,范元,2014-09-08,0.5,tournament_103_111,111,103,103.111
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,杨灵,2014-09-08,0.0,tournament_103_112,112,103,103.112
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,刘爱桂,2014-09-08,0.5,tournament_103_113,113,103,103.113
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,王吟彬,2014-09-08,0.5,tournament_103_114,114,103,103.114
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,卫明,2014-09-08,0.0,tournament_103_115,115,103,103.115
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,倪招林,2014-09-08,0.5,tournament_103_116,116,103,103.116
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,汪卫胤,2014-09-08,0.0,tournament_103_117,117,103,103.117
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,刘青聪,2014-09-08,0.0,tournament_103_118,118,103,103.118
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,陈森,2014-09-08,0.0,tournament_103_119,119,103,103.119
+tournament_103,2014-09-08,2014-09-08,12,classic,李海,孙胜阳,2014-09-08,0.0,tournament_103_120,120,103,103.120
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,谭亚,2014-09-08,1.0,tournament_103_121,121,103,103.121
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,杨燕波,2014-09-08,0.5,tournament_103_122,122,103,103.122
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,黄菲芮,2014-09-08,0.5,tournament_103_123,123,103,103.123
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,刘敬强,2014-09-08,0.5,tournament_103_124,124,103,103.124
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,程浩婷,2014-09-08,0.5,tournament_103_125,125,103,103.125
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,陈芝,2014-09-08,1.0,tournament_103_126,126,103,103.126
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,张雅娟,2014-09-08,1.0,tournament_103_127,127,103,103.127
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,曹灵缨,2014-09-08,0.5,tournament_103_128,128,103,103.128
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,王宣雁,2014-09-08,0.5,tournament_103_129,129,103,103.129
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,秦守云,2014-09-08,0.5,tournament_103_130,130,103,103.130
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,秦常明,2014-09-08,1.0,tournament_103_131,131,103,103.131
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,张秀聪,2014-09-08,1.0,tournament_103_132,132,103,103.132
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,胡建静,2014-09-08,0.5,tournament_103_133,133,103,103.133
+tournament_103,2014-09-08,2014-09-08,12,classic,张正男,张跃,2014-09-08,0.5,tournament_103_134,134,103,103.134
+tournament_103,2014-09-08,2014-09-08,12,classic,杨俊瑞,刘延兵,2014-09-08,0.0,tournament_103_135,135,103,103.135
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,沈民福,2014-09-08,0.5,tournament_103_136,136,103,103.136
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,王积芝,2014-09-08,1.0,tournament_103_137,137,103,103.137
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,黄慧,2014-09-08,0.5,tournament_103_138,138,103,103.138
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,冯燕家,2014-09-08,1.0,tournament_103_139,139,103,103.139
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,沈健琴,2014-09-08,0.5,tournament_103_140,140,103,103.140
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,黄梦莉,2014-09-08,1.0,tournament_103_141,141,103,103.141
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,徐晨良,2014-09-08,1.0,tournament_103_142,142,103,103.142
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,魏凯,2014-09-08,0.5,tournament_103_143,143,103,103.143
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,邢琦萍,2014-09-08,0.5,tournament_103_144,144,103,103.144
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,李苏瑾,2014-09-08,0.5,tournament_103_145,145,103,103.145
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,谢亮良,2014-09-08,0.0,tournament_103_146,146,103,103.146
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,张伟,2014-09-08,1.0,tournament_103_147,147,103,103.147
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,叶霸盛,2014-09-08,1.0,tournament_103_148,148,103,103.148
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,程墨美,2014-09-08,0.0,tournament_103_149,149,103,103.149
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,周紫强,2014-09-08,0.0,tournament_103_150,150,103,103.150
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,宋萌妹,2014-09-08,1.0,tournament_103_151,151,103,103.151
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,江波,2014-09-08,0.5,tournament_103_152,152,103,103.152
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,王小生,2014-09-08,0.5,tournament_103_153,153,103,103.153
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,李海,2014-09-08,0.5,tournament_103_154,154,103,103.154
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,樊建丽,2014-09-08,0.5,tournament_103_155,155,103,103.155
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,秦慧菲,2014-09-08,0.0,tournament_103_156,156,103,103.156
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,林康俊,2014-09-08,0.5,tournament_103_157,157,103,103.157
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,宋曼燊,2014-09-08,0.5,tournament_103_158,158,103,103.158
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,邵红从,2014-09-08,0.5,tournament_103_159,159,103,103.159
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,陈荣顺,2014-09-08,0.5,tournament_103_160,160,103,103.160
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,杨俊瑞,2014-09-08,0.5,tournament_103_161,161,103,103.161
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,张正男,2014-09-08,1.0,tournament_103_162,162,103,103.162
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,秦志,2014-09-08,0.5,tournament_103_163,163,103,103.163
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,梁金州,2014-09-08,0.5,tournament_103_164,164,103,103.164
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,杨灵,2014-09-08,0.5,tournament_103_165,165,103,103.165
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,范元,2014-09-08,0.0,tournament_103_166,166,103,103.166
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,卫明,2014-09-08,1.0,tournament_103_167,167,103,103.167
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,汪卫胤,2014-09-08,0.5,tournament_103_168,168,103,103.168
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,刘爱桂,2014-09-08,1.0,tournament_103_169,169,103,103.169
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,孙胜阳,2014-09-08,0.0,tournament_103_170,170,103,103.170
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,王吟彬,2014-09-08,0.0,tournament_103_171,171,103,103.171
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,倪招林,2014-09-08,1.0,tournament_103_172,172,103,103.172
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,刘青聪,2014-09-08,0.0,tournament_103_173,173,103,103.173
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,陈森,2014-09-08,0.0,tournament_103_174,174,103,103.174
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,谭亚,2014-09-08,0.5,tournament_103_175,175,103,103.175
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,刘敬强,2014-09-08,0.0,tournament_103_176,176,103,103.176
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,程浩婷,2014-09-08,0.5,tournament_103_177,177,103,103.177
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,杨燕波,2014-09-08,1.0,tournament_103_178,178,103,103.178
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,黄菲芮,2014-09-08,0.5,tournament_103_179,179,103,103.179
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,王宣雁,2014-09-08,1.0,tournament_103_180,180,103,103.180
+tournament_103,2014-09-08,2014-09-08,12,classic,李海,曹灵缨,2014-09-08,0.5,tournament_103_181,181,103,103.181
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,刘延兵,2014-09-08,1.0,tournament_103_182,182,103,103.182
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,秦守云,2014-09-08,1.0,tournament_103_183,183,103,103.183
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,胡建静,2014-09-08,0.0,tournament_103_184,184,103,103.184
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,张秀聪,2014-09-08,0.5,tournament_103_185,185,103,103.185
+tournament_103,2014-09-08,2014-09-08,12,classic,张正男,陈芝,2014-09-08,0.5,tournament_103_186,186,103,103.186
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,张跃,2014-09-08,0.5,tournament_103_187,187,103,103.187
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,秦常明,2014-09-08,0.5,tournament_103_188,188,103,103.188
+tournament_103,2014-09-08,2014-09-08,12,classic,杨俊瑞,张雅娟,2014-09-08,0.5,tournament_103_189,189,103,103.189
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,冯燕家,2014-09-08,0.5,tournament_103_190,190,103,103.190
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,谢亮良,2014-09-08,1.0,tournament_103_191,191,103,103.191
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,程墨美,2014-09-08,0.5,tournament_103_192,192,103,103.192
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,沈健琴,2014-09-08,1.0,tournament_103_193,193,103,103.193
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,王积芝,2014-09-08,1.0,tournament_103_194,194,103,103.194
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,黄慧,2014-09-08,1.0,tournament_103_195,195,103,103.195
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,张伟,2014-09-08,1.0,tournament_103_196,196,103,103.196
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,沈民福,2014-09-08,0.0,tournament_103_197,197,103,103.197
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,王小生,2014-09-08,0.0,tournament_103_198,198,103,103.198
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,樊建丽,2014-09-08,1.0,tournament_103_199,199,103,103.199
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,林康俊,2014-09-08,0.5,tournament_103_200,200,103,103.200
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,魏凯,2014-09-08,0.0,tournament_103_201,201,103,103.201
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,李苏瑾,2014-09-08,0.5,tournament_103_202,202,103,103.202
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,邢琦萍,2014-09-08,0.5,tournament_103_203,203,103,103.203
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,周紫强,2014-09-08,0.5,tournament_103_204,204,103,103.204
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,秦慧菲,2014-09-08,1.0,tournament_103_205,205,103,103.205
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,黄梦莉,2014-09-08,0.0,tournament_103_206,206,103,103.206
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,叶霸盛,2014-09-08,1.0,tournament_103_207,207,103,103.207
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,江波,2014-09-08,0.0,tournament_103_208,208,103,103.208
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,李海,2014-09-08,0.0,tournament_103_209,209,103,103.209
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,邵红从,2014-09-08,1.0,tournament_103_210,210,103,103.210
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,徐晨良,2014-09-08,0.5,tournament_103_211,211,103,103.211
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,张正男,2014-09-08,0.5,tournament_103_212,212,103,103.212
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,宋萌妹,2014-09-08,0.5,tournament_103_213,213,103,103.213
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,陈荣顺,2014-09-08,0.5,tournament_103_214,214,103,103.214
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,杨俊瑞,2014-09-08,0.5,tournament_103_215,215,103,103.215
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,宋曼燊,2014-09-08,0.5,tournament_103_216,216,103,103.216
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,范元,2014-09-08,0.5,tournament_103_217,217,103,103.217
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,秦志,2014-09-08,0.5,tournament_103_218,218,103,103.218
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,杨灵,2014-09-08,0.0,tournament_103_219,219,103,103.219
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,汪卫胤,2014-09-08,0.5,tournament_103_220,220,103,103.220
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,孙胜阳,2014-09-08,0.5,tournament_103_221,221,103,103.221
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,梁金州,2014-09-08,0.5,tournament_103_222,222,103,103.222
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,卫明,2014-09-08,0.0,tournament_103_223,223,103,103.223
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,刘爱桂,2014-09-08,1.0,tournament_103_224,224,103,103.224
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,王吟彬,2014-09-08,0.0,tournament_103_225,225,103,103.225
+tournament_103,2014-09-08,2014-09-08,12,classic,李海,刘青聪,2014-09-08,0.0,tournament_103_226,226,103,103.226
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,陈森,2014-09-08,0.5,tournament_103_227,227,103,103.227
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,刘敬强,2014-09-08,0.5,tournament_103_228,228,103,103.228
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,倪招林,2014-09-08,1.0,tournament_103_229,229,103,103.229
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,谭亚,2014-09-08,0.0,tournament_103_230,230,103,103.230
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,程浩婷,2014-09-08,1.0,tournament_103_231,231,103,103.231
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,黄菲芮,2014-09-08,0.0,tournament_103_232,232,103,103.232
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,胡建静,2014-09-08,1.0,tournament_103_233,233,103,103.233
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,陈芝,2014-09-08,0.5,tournament_103_234,234,103,103.234
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,曹灵缨,2014-09-08,0.0,tournament_103_235,235,103,103.235
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,王宣雁,2014-09-08,1.0,tournament_103_236,236,103,103.236
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,张秀聪,2014-09-08,0.5,tournament_103_237,237,103,103.237
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,秦常明,2014-09-08,1.0,tournament_103_238,238,103,103.238
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,杨俊瑞,2014-09-08,0.5,tournament_103_239,239,103,103.239
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,秦守云,2014-09-08,0.5,tournament_103_240,240,103,103.240
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,张正男,2014-09-08,1.0,tournament_103_241,241,103,103.241
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,张雅娟,2014-09-08,0.0,tournament_103_242,242,103,103.242
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,刘延兵,2014-09-08,1.0,tournament_103_243,243,103,103.243
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,林康俊,2014-09-08,0.0,tournament_103_244,244,103,103.244
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,程墨美,2014-09-08,1.0,tournament_103_245,245,103,103.245
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,王小生,2014-09-08,1.0,tournament_103_246,246,103,103.246
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,谢亮良,2014-09-08,0.5,tournament_103_247,247,103,103.247
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,冯燕家,2014-09-08,1.0,tournament_103_248,248,103,103.248
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,王积芝,2014-09-08,0.5,tournament_103_249,249,103,103.249
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,黄梦莉,2014-09-08,0.5,tournament_103_250,250,103,103.250
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,黄慧,2014-09-08,0.0,tournament_103_251,251,103,103.251
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,沈民福,2014-09-08,0.5,tournament_103_252,252,103,103.252
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,周紫强,2014-09-08,1.0,tournament_103_253,253,103,103.253
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,樊建丽,2014-09-08,1.0,tournament_103_254,254,103,103.254
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,魏凯,2014-09-08,1.0,tournament_103_255,255,103,103.255
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,李海,2014-09-08,1.0,tournament_103_256,256,103,103.256
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,沈健琴,2014-09-08,1.0,tournament_103_257,257,103,103.257
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,江波,2014-09-08,0.5,tournament_103_258,258,103,103.258
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,邢琦萍,2014-09-08,0.5,tournament_103_259,259,103,103.259
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,徐晨良,2014-09-08,0.5,tournament_103_260,260,103,103.260
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,叶霸盛,2014-09-08,0.5,tournament_103_261,261,103,103.261
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,宋萌妹,2014-09-08,0.0,tournament_103_262,262,103,103.262
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,张伟,2014-09-08,0.5,tournament_103_263,263,103,103.263
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,陈荣顺,2014-09-08,0.0,tournament_103_264,264,103,103.264
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,李苏瑾,2014-09-08,1.0,tournament_103_265,265,103,103.265
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,秦慧菲,2014-09-08,1.0,tournament_103_266,266,103,103.266
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,宋曼燊,2014-09-08,0.0,tournament_103_267,267,103,103.267
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,邵红从,2014-09-08,0.5,tournament_103_268,268,103,103.268
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,杨俊瑞,2014-09-08,1.0,tournament_103_269,269,103,103.269
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,张正男,2014-09-08,0.5,tournament_103_270,270,103,103.270
+tournament_103,2014-09-08,2014-09-08,12,classic,王小生,杨灵,2014-09-08,0.0,tournament_103_271,271,103,103.271
+tournament_103,2014-09-08,2014-09-08,12,classic,黄梦莉,秦志,2014-09-08,0.0,tournament_103_272,272,103,103.272
+tournament_103,2014-09-08,2014-09-08,12,classic,林康俊,孙胜阳,2014-09-08,0.0,tournament_103_273,273,103,103.273
+tournament_103,2014-09-08,2014-09-08,12,classic,王积芝,范元,2014-09-08,0.0,tournament_103_274,274,103,103.274
+tournament_103,2014-09-08,2014-09-08,12,classic,宋萌妹,汪卫胤,2014-09-08,0.5,tournament_103_275,275,103,103.275
+tournament_103,2014-09-08,2014-09-08,12,classic,程墨美,卫明,2014-09-08,0.5,tournament_103_276,276,103,103.276
+tournament_103,2014-09-08,2014-09-08,12,classic,陈荣顺,梁金州,2014-09-08,0.5,tournament_103_277,277,103,103.277
+tournament_103,2014-09-08,2014-09-08,12,classic,黄慧,刘青聪,2014-09-08,0.5,tournament_103_278,278,103,103.278
+tournament_103,2014-09-08,2014-09-08,12,classic,沈民福,刘爱桂,2014-09-08,0.5,tournament_103_279,279,103,103.279
+tournament_103,2014-09-08,2014-09-08,12,classic,冯燕家,陈森,2014-09-08,1.0,tournament_103_280,280,103,103.280
+tournament_103,2014-09-08,2014-09-08,12,classic,谢亮良,谭亚,2014-09-08,0.5,tournament_103_281,281,103,103.281
+tournament_103,2014-09-08,2014-09-08,12,classic,樊建丽,王吟彬,2014-09-08,0.0,tournament_103_282,282,103,103.282
+tournament_103,2014-09-08,2014-09-08,12,classic,周紫强,刘敬强,2014-09-08,0.0,tournament_103_283,283,103,103.283
+tournament_103,2014-09-08,2014-09-08,12,classic,叶霸盛,黄菲芮,2014-09-08,0.5,tournament_103_284,284,103,103.284
+tournament_103,2014-09-08,2014-09-08,12,classic,徐晨良,倪招林,2014-09-08,0.0,tournament_103_285,285,103,103.285
+tournament_103,2014-09-08,2014-09-08,12,classic,宋曼燊,程浩婷,2014-09-08,1.0,tournament_103_286,286,103,103.286
+tournament_103,2014-09-08,2014-09-08,12,classic,江波,胡建静,2014-09-08,0.0,tournament_103_287,287,103,103.287
+tournament_103,2014-09-08,2014-09-08,12,classic,邢琦萍,张雅娟,2014-09-08,0.5,tournament_103_288,288,103,103.288
+tournament_103,2014-09-08,2014-09-08,12,classic,魏凯,陈芝,2014-09-08,1.0,tournament_103_289,289,103,103.289
+tournament_103,2014-09-08,2014-09-08,12,classic,邵红从,杨燕波,2014-09-08,0.5,tournament_103_290,290,103,103.290
+tournament_103,2014-09-08,2014-09-08,12,classic,秦慧菲,张秀聪,2014-09-08,0.5,tournament_103_291,291,103,103.291
+tournament_103,2014-09-08,2014-09-08,12,classic,张正男,曹灵缨,2014-09-08,0.0,tournament_103_292,292,103,103.292
+tournament_103,2014-09-08,2014-09-08,12,classic,张伟,张跃,2014-09-08,0.5,tournament_103_293,293,103,103.293
+tournament_103,2014-09-08,2014-09-08,12,classic,杨俊瑞,李海,2014-09-08,0.5,tournament_103_294,294,103,103.294
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,秦常明,2014-09-08,1.0,tournament_103_295,295,103,103.295
+tournament_103,2014-09-08,2014-09-08,12,classic,李苏瑾,王宣雁,2014-09-08,0.5,tournament_103_296,296,103,103.296
+tournament_103,2014-09-08,2014-09-08,12,classic,沈健琴,秦守云,2014-09-08,0.5,tournament_103_297,297,103,103.297
+tournament_103,2014-09-08,2014-09-08,12,classic,杨灵,谢亮良,2014-09-08,1.0,tournament_103_298,298,103,103.298
+tournament_103,2014-09-08,2014-09-08,12,classic,秦志,宋萌妹,2014-09-08,1.0,tournament_103_299,299,103,103.299
+tournament_103,2014-09-08,2014-09-08,12,classic,孙胜阳,陈荣顺,2014-09-08,1.0,tournament_103_300,300,103,103.300
+tournament_103,2014-09-08,2014-09-08,12,classic,范元,宋曼燊,2014-09-08,0.5,tournament_103_301,301,103,103.301
+tournament_103,2014-09-08,2014-09-08,12,classic,汪卫胤,林康俊,2014-09-08,1.0,tournament_103_302,302,103,103.302
+tournament_103,2014-09-08,2014-09-08,12,classic,卫明,冯燕家,2014-09-08,1.0,tournament_103_303,303,103,103.303
+tournament_103,2014-09-08,2014-09-08,12,classic,梁金州,王小生,2014-09-08,1.0,tournament_103_304,304,103,103.304
+tournament_103,2014-09-08,2014-09-08,12,classic,谭亚,黄慧,2014-09-08,0.0,tournament_103_305,305,103,103.305
+tournament_103,2014-09-08,2014-09-08,12,classic,刘青聪,程墨美,2014-09-08,0.5,tournament_103_306,306,103,103.306
+tournament_103,2014-09-08,2014-09-08,12,classic,刘爱桂,王积芝,2014-09-08,0.0,tournament_103_307,307,103,103.307
+tournament_103,2014-09-08,2014-09-08,12,classic,王吟彬,邢琦萍,2014-09-08,0.5,tournament_103_308,308,103,103.308
+tournament_103,2014-09-08,2014-09-08,12,classic,刘敬强,沈民福,2014-09-08,0.0,tournament_103_309,309,103,103.309
+tournament_103,2014-09-08,2014-09-08,12,classic,陈森,魏凯,2014-09-08,1.0,tournament_103_310,310,103,103.310
+tournament_103,2014-09-08,2014-09-08,12,classic,黄菲芮,黄梦莉,2014-09-08,1.0,tournament_103_311,311,103,103.311
+tournament_103,2014-09-08,2014-09-08,12,classic,倪招林,叶霸盛,2014-09-08,0.0,tournament_103_312,312,103,103.312
+tournament_103,2014-09-08,2014-09-08,12,classic,胡建静,樊建丽,2014-09-08,1.0,tournament_103_313,313,103,103.313
+tournament_103,2014-09-08,2014-09-08,12,classic,张雅娟,周紫强,2014-09-08,1.0,tournament_103_314,314,103,103.314
+tournament_103,2014-09-08,2014-09-08,12,classic,张秀聪,江波,2014-09-08,0.0,tournament_103_315,315,103,103.315
+tournament_103,2014-09-08,2014-09-08,12,classic,曹灵缨,徐晨良,2014-09-08,1.0,tournament_103_316,316,103,103.316
+tournament_103,2014-09-08,2014-09-08,12,classic,陈芝,秦慧菲,2014-09-08,1.0,tournament_103_317,317,103,103.317
+tournament_103,2014-09-08,2014-09-08,12,classic,刘延兵,邵红从,2014-09-08,0.0,tournament_103_318,318,103,103.318
+tournament_103,2014-09-08,2014-09-08,12,classic,王宣雁,张正男,2014-09-08,0.5,tournament_103_319,319,103,103.319
+tournament_103,2014-09-08,2014-09-08,12,classic,杨燕波,李海,2014-09-08,0.5,tournament_103_320,320,103,103.320
+tournament_103,2014-09-08,2014-09-08,12,classic,秦常明,沈健琴,2014-09-08,0.5,tournament_103_321,321,103,103.321
+tournament_103,2014-09-08,2014-09-08,12,classic,张跃,李苏瑾,2014-09-08,1.0,tournament_103_322,322,103,103.322
+tournament_103,2014-09-08,2014-09-08,12,classic,程浩婷,杨俊瑞,2014-09-08,0.5,tournament_103_323,323,103,103.323
+tournament_103,2014-09-08,2014-09-08,12,classic,秦守云,张伟,2014-09-08,0.5,tournament_103_324,324,103,103.324

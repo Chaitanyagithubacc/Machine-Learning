@@ -1,0 +1,7 @@
+List of files in my_archive.zip:
+
+- en_ABW_AllYears_WITS_Trade_Summary
+- en_AFG_AllYears_WITS_Trade_Summary
+- en_AGO_AllYears_WITS_Trade_Summary
+- en_AIA_AllYears_WITS_Trade_Summary
+- en_ALB_AllYears_WITS_Trade_Summary
